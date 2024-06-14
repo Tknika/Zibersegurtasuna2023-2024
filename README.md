@@ -25,4 +25,23 @@
 
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
-  - ### 3.1 Proiektuak:
+### 3.1 Proiektuak:
+#### 3.1.1 Erd/Def CTF azpiegitura:
+  - ##### Kokapena
+
+Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere ekaskatzen dituen CTF plataforma bat martxan jartzeri ekin diogu ikasturte honetan.
+
+Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzeko zeinetan oinarritu behar ginen ebaluatu genuen. Aukera desberdinak ikusi ostean Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiktu erabili ditugu:
+
+      - Gameserverra: https://github.com/fausecteam/ctf-gameserver
+      - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
+
+#### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
+
+Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen:
+
+        1 -
+
+
+#### 3.1.3 Erd/Def CTFrako bistaratze sistema:
+
