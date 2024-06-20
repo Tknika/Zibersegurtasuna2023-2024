@@ -8,10 +8,11 @@
 3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
    - 3.2 [Pilotuak:](#32-pilotuak)
-      - 3.2.1 
+      - 3.2.1 Gophish
       - 3.2.2 
       - 3.2.3 
    - 3.3 [Ikastaroak:](#33-ikastaroak)
+      - 3.3.1 Kontzientziazio kanpañak: Phishing 
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 ---------------------------------------------------------------------------------------------------------------------------------------------
