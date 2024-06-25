@@ -21,7 +21,7 @@
       - 3.3.2 Arkitektura seguruen diseinu tailerra (OT)
       - 3.3.3 Sare industrialen segmentazio tailer praktikoa
       - 3.3.4 Web Garapen Segurua
-      - 3.3.5 Webinar 
+      - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,7 +63,13 @@ Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tre
 #### 3.2.2 Vishing:
  - ##### Kokapena
 
-#### 3.2.3 Pentesting Pilotua Iurreta LHI:
+
+#### 3.2.3 Hack the box:
+ - ##### Kokapena
+Hack The Box plataformari buruzko ekitaldia, Lanbide Heziketaren ikuspegitik. Kurtso honetan izan den erabilpena (Ikastetxe batean, CyberLehian, etab) partekatu, hausnartu eta beste aukera posibleei buruz lanketa egitea da helburua. HTB-ko erronka bat elkarlanean gainditzea proposatuko da.
+Landuko diren gaiak: Txudinagako esperientzia 23/24, lizentzia motak eta kostuak, beste aukeren hausnarketa, HTB erronka lanketa praktikoa
+
+#### 3.2.4 Pentesting Pilotua Iurreta LHI:
  - ##### Kokapena
    
 Iurreta LHI zentroan segurtasun auditoretza egin du Zibersegurtasun espezializazioa ikasi duen ikasle batek. Webinarraren helburua lortutako emaitzak aurkeztea eta esperientzia prozesuan interesa dutenekin partekatzea da.
@@ -81,3 +87,7 @@ Lantegi praktiko honetan sare industrialak segmentatuta izatearen garrantzia azt
 Prestakuntza honen helburua, segurtasuna web garapenaren bizi-zikloaren parte izan dadin, beharrezkoa den ezagutza zabaltzea da. Segurtasuna oso espazio zabaleko gaia den arren, prestakuntza honetan web inguruneetan (aplikazioak eta APIak) ematen diren ahulgune ohikoenetan enfokatuko gara. Aipatutako ahulguneak ekiditeko jarraitu beharreko praktika onak ezagutzera emango dira.
 Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beharreko alderdiak aztertuko ditugu. Horretarako, OWASP erakundeak jasotako ahultasunen top 10ean oinarrituko gara. OWASP (Open Web Application Security Project) irabazi asmorik gabeko erakunde bat da, eta bere helburua softwarearen segurtasuna hobetzean datza.
 “Juice Shop” open source aplikazioa erabiliko dugu ikasitakoa praktikan jartzeko. Aplikazio hau segurtasun arazoez beteta dago eta gamifikazio osagai bat du. Ahuleziak ustiatzen diren heinean, lorpenak desblokeatzen dira eta parte-hartzaileak sailkatzen dituen ranking bat sortzen da. Ahuleziak aurkitu ahala, erlazionatutako kodea aztertuko dugu eta funtzionalitatea modu seguruan garatzeko jarraitu beharreko irizpideak azalduko ditugu.
+
+#### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
+###  3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
+4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
