@@ -66,11 +66,13 @@ Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tre
 
 #### 3.2.3 Hack the box:
 <img align="center" src="img/htb.png">
+
  - ##### Kokapena
 Hack The Box plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, Txurdinagako LH ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan CyberLehian, etab ere erabili da eta bertatik jasotako esperinetzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
 
 #### 3.2.4 Pentesting Pilotua Iurreta LHI:
 <img align="center" width="50%" height="50%" src="img/pentesting-iurreta.jpg">
+
  - ##### Kokapena
 Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.   
 
@@ -78,9 +80,11 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 
 ### 3.3 Ikastaroak:
 #### 3.3.1 Kontzientziazio kanpañak: Phishing 
-<img align="center" src="img/phishing.jpg">
+<img align="center" width="50%" height="50%" src="img/phishing.jpg">
+
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
 <img align="center" src="img/OTkurtsorako-irudia1.jpg">
+
 Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan dezaketen arriskuen ikuspegitik aztertu dira. Sareko ekipoak ezagutzeko tresnak erabili dira (Nmap), komunikazioetan sortzen den trafikoa aztertu da (Wireshark) eta PLC sistemak "erasotzeko" hainbat teknika erabili dira. 22/23 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatu dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko. Lehen tailerrean industria-komunikazioen gabeziak eta seguruak ez diren industria-sistemetan gerta daitezkeen erasoak aztertu dira.
 
 #### 3.3.3 Sare industrialen segmentazio tailer praktikoa
