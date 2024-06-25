@@ -89,5 +89,6 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 “Juice Shop” open source aplikazioa erabiliko dugu ikasitakoa praktikan jartzeko. Aplikazio hau segurtasun arazoez beteta dago eta gamifikazio osagai bat du. Ahuleziak ustiatzen diren heinean, lorpenak desblokeatzen dira eta parte-hartzaileak sailkatzen dituen ranking bat sortzen da. Ahuleziak aurkitu ahala, erlazionatutako kodea aztertuko dugu eta funtzionalitatea modu seguruan garatzeko jarraitu beharreko irizpideak azalduko ditugu.
 
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
+
 ###  3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
-4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
+## 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
