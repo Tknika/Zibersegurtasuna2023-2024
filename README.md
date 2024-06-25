@@ -93,8 +93,14 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 #### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
-Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da Phishing/Vishing tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
-[Gida](KONTZIENTZIAZIOA)
+Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da Phishing/Vishing tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Kontzientziazio kanpañak burutzeko urratsetan sakondu da: 
+1.Informazioa topatu (OSINT)
+2.Eszenatokiak sortu (SMTP zerbitzariak, GOPHISH ingurunea)
+3.Kanpañak diseinatu.
+4.Vishing nola?
+
+Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
+[Dokumentazio Gida](KONTZIENTZIAZIOA)
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
