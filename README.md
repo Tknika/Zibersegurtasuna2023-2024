@@ -90,5 +90,5 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
 
-###  3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
-## 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
+###  3.4 [Sortutako edukiak:]
+## 4. [Harremanak eta Komunikazioa:]
