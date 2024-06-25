@@ -74,7 +74,7 @@ Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen bideo laburra:
 #### 3.2.2 Vishing:
  - ##### Kokapena
 
-<p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="25%" height="25%"></a></p>
+<p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
 #### 3.2.3 Hack the box:
 <p align="center"><img src="img/htb.png"></p>
