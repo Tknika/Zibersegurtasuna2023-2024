@@ -75,7 +75,7 @@ Jarraituko urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
 Hack The Box plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, Txurdinagako LH ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan CyberLehian, etab ere erabili da eta bertatik jasotako esperinetzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
 
 #### 3.2.4 Pentesting Pilotua Iurreta LHI:
-<img align="center" width="50%" height="50%" src="img/pentesting-iurreta.jpg">
+<p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
 
  - ##### Kokapena
 Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.   
@@ -84,10 +84,10 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 
 ### 3.3 Ikastaroak:
 #### 3.3.1 Kontzientziazio kanpañak: Phishing 
-<img align="center" width="50%" height="50%" src="img/phishing.jpg">
+<p align="center"><img width="25%" height="25%" src="img/phishing.jpg"></p>
 
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
-<img align="center" src="img/OTkurtsorako-irudia1.jpg">
+<p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
 Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan dezaketen arriskuen ikuspegitik aztertu dira. Sareko ekipoak ezagutzeko tresnak erabili dira (Nmap), komunikazioetan sortzen den trafikoa aztertu da (Wireshark) eta PLC sistemak "erasotzeko" hainbat teknika erabili dira. 22/23 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatu dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko. Lehen tailerrean industria-komunikazioen gabeziak eta seguruak ez diren industria-sistemetan gerta daitezkeen erasoak aztertu dira.
 
@@ -96,7 +96,7 @@ Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan de
 Lantegi praktiko honetan sare industrialak segmentatuta izatearen garrantzia aztertuko da. Segmentazio egoki bati esker, ekoizpen-sarean eragina izan dezaketen eta zabaldu ez daitezkeen segurtasun-intzidenteak arindu ditzakegu. Era berean, IEC 62443 segurtasun-araudiak IT/OT sareak bereizita izatera behartzen du. Siemens familiako gailuak, Scalance 615 suhesiak eta Switch 208,408 gailuak erabiliko dira konfigurazioak egiteko. 23/24 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatuko dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko.
 
 #### 3.3.4 Web Garapen Segurua
-<img align="center" width="50%" height="50%" src="img/garapen-segurua.jpg">
+<p align="center"><img width="50%" height="50%" src="img/garapen-segurua.jpg"></p>
 
 Prestakuntza honen helburua, segurtasuna web garapenaren bizi-zikloaren parte izan dadin, beharrezkoa den ezagutza zabaltzea izan da. Segurtasuna oso espazio zabaleko gaia den arren, prestakuntza honetan web inguruneetan (aplikazioak eta APIak) ematen diren ahulgune ohikoenetan enfokatuko gara. Aipatutako ahulguneak ekiditeko jarraitu beharreko praktika onak ezagutzera eman dira.
 Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beharreko alderdiak aztertu dira. Horretarako, OWASP erakundeak jasotako ahultasunen top 10ean oinarritu da. OWASP (Open Web Application Security Project) irabazi asmorik gabeko erakunde bat da, eta bere helburua softwarearen segurtasuna hobetzean datza.
