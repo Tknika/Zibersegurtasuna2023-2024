@@ -64,6 +64,8 @@ Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tre
 Jarraituko urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
 <p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
 
+Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen bideo laburra:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WRu7IkI5Jq4?si=lAZ1dGJl_9aRqqCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### 3.2.2 Vishing:
  - ##### Kokapena
 
