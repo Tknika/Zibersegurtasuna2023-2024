@@ -18,7 +18,7 @@
       - 3.2.4 Pentesting 
    - 3.3 [Ikastaroak:](#33-ikastaroak)
       - 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
-      - 3.3.2 Arkitektura seguruen diseinu tailerra (OT)
+      - 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
       - 3.3.3 Sare industrialen segmentazio tailer praktikoa
       - 3.3.4 Web Garapen Segurua
       - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
@@ -70,15 +70,15 @@ Hack The Box plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erab
 
 #### 3.2.4 Pentesting Pilotua Iurreta LHI:
  - ##### Kokapena
-   
-Iurreta LHI zentroan segurtasun auditoretza egin du Zibersegurtasun espezializazioa ikasi duen ikasle batek. Webinarraren helburua lortutako emaitzak aurkeztea eta esperientzia prozesuan interesa dutenekin partekatzea da.
-Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.
-Webinar honen helburua esperientzia guztia, lortutako emaitzak eta pilotuko parte-hartzaile guztien ikuspegia aurkeztea da.
+Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.   
+
+Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean. Webinarraren helburua lortutako emaitzak aurkeztea eta esperientzia prozesuan interesa dutenekin partekatzea izan da.
+
 ### 3.3 Ikastaroak:
 #### 3.3.1 Kontzientziazio kanpañak: Phishing 
 
-#### 3.3.2 Arkitektura seguruen diseinu tailerra (OT)
-Tailer Online honek honako helburua du: Informazio (IT) eta Eragiketa (OT) inguruneen arteko elkar komunikatzearen ondorioz sortutako arrisku teknologikoak murriztuko dituen arkitektura segurua diseinatzeko egin behar diren urratsak deskribatzea. Horretarako, Laudioalde Lanbide Eskola zentruko instalazioak, transformazio digitaleko (Industria 4.0) prozesu batean dagoen fabrika gisa aztertuko da. Prozesu horren ondorioz, gaur egun dauden ekipo, osagai eta sistemen esposizio-maila handituko da, prebentziozko mantentze-lanak, OEE koefizientearen hobekuntza, kontsumo elektrikoen kontrola, beste fabrikazio-agindu batzuk bistaratzea eta abar egiteko. Esposizio horren segurtasun arriskuak nola minimizatu azalduko da. Hemen jasotako proposamen guztiak, eta baita metodologia bera ere, erreferentziazko estandarretan eta gida nagusietan oinarrituak daude, hala nola ISA/IEC 62443, NIST 800-82 2, NIST Framework, fabrikatzaileen gomendioak, besteak beste.
+#### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
+Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan dezaketen arriskuen ikuspegitik aztertu dira. Sareko ekipoak ezagutzeko tresnak erabili dira (Nmap), komunikazioetan sortzen den trafikoa aztertu da (Wireshark) eta PLC sistemak "erasotzeko" hainbat teknika erabili dira. 22/23 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatu dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko. Lehen tailerrean industria-komunikazioen gabeziak eta seguruak ez diren industria-sistemetan gerta daitezkeen erasoak aztertu dira.
 
 #### 3.3.3 Sare industrialen segmentazio tailer praktikoa
 Lantegi praktiko honetan sare industrialak segmentatuta izatearen garrantzia aztertuko da. Segmentazio egoki bati esker, ekoizpen-sarean eragina izan dezaketen eta zabaldu ez daitezkeen segurtasun-intzidenteak arindu ditzakegu. Era berean, IEC 62443 segurtasun-araudiak IT/OT sareak bereizita izatera behartzen du. Siemens familiako gailuak, Scalance 615 suhesiak eta Switch 208,408 gailuak erabiliko dira konfigurazioak egiteko. 23/24 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatuko dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko.
