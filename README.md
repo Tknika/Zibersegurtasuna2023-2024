@@ -62,7 +62,7 @@ Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau pro
 
 Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tresna testeatu ondoren, aurtengo ikasturtean Gophish software librearen pilotu bat jorratu da. Kontzientziazio kanpañaren lehendabiziko fasean, Tknikako instalazioetan egin da lehen lanketa. Bertako langileen epostetara, email desberdinak bidali dira igorle faltsu batetatik, webgune faltsu batetarako estekarekin. Tknikan eginiko lanketaren balorazio positiboa egin ostean, pilotu hau Lanbide Heziketako ikastetxeetara zabaltzea erabaki zen. Ikastetxe desberdinei proposamena egin ondoren, azkenean Zubiri Manteo, Uni Eibar, Izarraitz eta Iurretako ikastetxeetan jorratu zen kanpañaren bigarren fasea. Bertako irakasleen emailetara, mezu desberdinak bidali zirelarik. 
 Jarraituko urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
-<p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
+<p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="35%" height="35%"></a></p>
 
 #### 3.2.2 Vishing:
  - ##### Kokapena
@@ -84,7 +84,7 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 
 ### 3.3 Ikastaroak:
 #### 3.3.1 Kontzientziazio kanpañak: Phishing 
-<p align="center"><img width="25%" height="25%" src="img/phishing.jpg"></p>
+<p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
