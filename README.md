@@ -87,7 +87,7 @@ Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bi
 Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean. Webinarraren helburua lortutako emaitzak aurkeztea eta esperientzia prozesuan interesa dutenekin partekatzea izan da.
 
 ### 3.3 Ikastaroak:
-#### 3.3.1 Kontzientziazio kanpañak: Phishing 
+#### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
