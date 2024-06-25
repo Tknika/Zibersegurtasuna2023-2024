@@ -61,7 +61,8 @@ Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau pro
  - ##### Kokapena
 
 Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tresna testeatu ondoren, aurtengo ikasturtean Gophish software librearen pilotu bat jorratu da. Kontzientziazio kanpañaren lehendabiziko fasean, Tknikako instalazioetan egin da lehen lanketa. Bertako langileen epostetara, email desberdinak bidali dira igorle faltsu batetatik, webgune faltsu batetarako estekarekin. Tknikan eginiko lanketaren balorazio positiboa egin ostean, pilotu hau Lanbide Heziketako ikastetxeetara zabaltzea erabaki zen. Ikastetxe desberdinei proposamena egin ondoren, azkenean Zubiri Manteo, Uni Eibar, Izarraitz eta Iurretako ikastetxeetan jorratu zen kanpañaren bigarren fasea. Bertako irakasleen emailetara, mezu desberdinak bidali zirelarik. 
-<a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="75%" height="75%"></a>
+Jarraituko urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
+<a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a>
 
 #### 3.2.2 Vishing:
  - ##### Kokapena
