@@ -25,6 +25,9 @@
       - 3.3.4 Web Garapen Segurua
       - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
+   - 3.5 Zentruetako proiektuak:
+      - 3.5.1 Cyber car
+      - 3.5.2 OT Erronkak
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
@@ -109,4 +112,8 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
 
 ###  3.4 [Sortutako edukiak:]
+
+###  3.5 Zentruetako proiektuak:
+#### 3.5.1 Cyber car
+###  3.5.2 OT Erronkak
 ## 4. [Harremanak eta Komunikazioa:]
