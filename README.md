@@ -94,7 +94,7 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
 Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da Phishing/Vishing tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
-
+[Gida](KONTZIENTZIAZIOA)
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
