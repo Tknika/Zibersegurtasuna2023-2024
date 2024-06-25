@@ -93,6 +93,8 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 #### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
+Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da Phishing/Vishing tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
+
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
@@ -115,5 +117,5 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 
 ###  3.5 Zentruetako proiektuak:
 #### 3.5.1 Cyber car
-###  3.5.2 OT Erronkak
+#### 3.5.2 OT Erronkak
 ## 4. [Harremanak eta Komunikazioa:]
