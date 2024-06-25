@@ -8,8 +8,8 @@
 3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
    - 3.2 [Pilotuak:](#32-pilotuak)
-      - 3.2.1 Gophish
-      - 3.2.2 
+      - 3.2.1 Phishing
+      - 3.2.2 Vishing
       - 3.2.3 
    - 3.3 [Ikastaroak:](#33-ikastaroak)
       - 3.3.1 Kontzientziazio kanpañak: Phishing 
