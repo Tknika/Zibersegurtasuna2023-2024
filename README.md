@@ -70,7 +70,7 @@ Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tre
 Hack The Box plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, Txurdinagako LH ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan CyberLehian, etab ere erabili da eta bertatik jasotako esperinetzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
 
 #### 3.2.4 Pentesting Pilotua Iurreta LHI:
-<img align="center" width="%50" height="%50"src="img/pentesting-iurreta.jpg">
+<img align="center" width="50%" height="50%" src="img/pentesting-iurreta.jpg">
  - ##### Kokapena
 Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.   
 
