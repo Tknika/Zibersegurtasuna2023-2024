@@ -66,7 +66,7 @@ Jarraituko urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
 
 Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen bideo laburra:
 
-<a href="https://youtu.be/WRu7IkI5Jq4"> <img align="center" src="img/bideo_shot.jpg" width=50% height=50%> </a>
+<p align="center"><a href="https://youtu.be/WRu7IkI5Jq4"> <img align="center" src="img/bideo_shot.jpg" width=50% height=50%> </a></p>
 
 #### 3.2.2 Vishing:
  - ##### Kokapena
