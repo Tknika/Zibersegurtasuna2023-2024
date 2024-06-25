@@ -1,3 +1,5 @@
+<img align="center" src="img/kabezera2024.jpg">
+
 # Zibersegurtasuna 2023-2024
 **Tknikako Zibersegurtasun lan taldearen 2023 - 2024 kurtsoko memoria**
 
