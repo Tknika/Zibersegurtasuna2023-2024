@@ -7,7 +7,7 @@
 2. [2024ko zifrak:](#22024ko-zifrak)
 3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
-      - 3.1.0 Ziber Lehia
+      - 3.1.0 Cyber-Lehia
       - 3.1.1 Erd/Def CTF azpiegitura:
       - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
       - 3.1.3 Erd/Def CTFrako bistaratze sistema:
