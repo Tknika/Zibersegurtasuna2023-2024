@@ -121,6 +121,8 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 “Juice Shop” open source aplikazioa erabili da ikasitakoa praktikan jartzeko. Aplikazio hau segurtasun arazoez beteta dago eta gamifikazio osagai bat du. Ahuleziak ustiatzen diren heinean, lorpenak desblokeatzen dira eta parte-hartzaileak sailkatzen dituen ranking bat sortzen da. Ahuleziak aurkitu ahala, erlazionatutako kodea aztertuko da eta funtzionalitatea modu seguruan garatzeko jarraitu beharreko irizpideak azaltzen dira.
 
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
+Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da. Webinar hau Ruth Sala abokatuak eta gaian adituak eman du, eta bertan zibersegurtasunaren atalean burutzen diren hainbat praktiken legalitatearen inguruan egon daitezkeen galderak erantzun zituen bertan.
+<p align="center"><a href="https://www.youtube.com/live/JUFNl8AUOO0"> <img align="center" src="img/bideo_shot.jpg" width=50% height=50%> </a></p>
 
 ###  3.4 [Sortutako edukiak:]
 
