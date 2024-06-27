@@ -13,7 +13,7 @@
       - 3.1.0 Cyber-Lehia
       - 3.1.1 Erd/Def CTF azpiegitura:
       - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
-      - 3.1.3 Erd/Def CTFrako bistaratze sistema:
+      - 3.1.3 Erd/Def CTFrako bistaratze sistemak:
    - 3.2 [Pilotuak:](#32-pilotuak)
       - 3.2.1 Phishing
       - 3.2.2 Vishing
@@ -79,7 +79,17 @@ Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau pro
    Erasoa: hiztegi-eraso bat gauzatu daiteke hydra bezalako tresna bat erabilita; hiztegirik izan ezean, eraso gordina bideratu daiteke. 
    Defentsa: desgaitu egin behar da erabiltzaile/pasahitza bitartez kautotzeko aukera; hori egin ostean, erabiltzaileak kriptografia asimetrikoaren bidez kautotu beharko dira, giltz bat erabilita.
 
-#### 3.1.3 Erd/Def CTFrako bistaratze sistema:
+#### 3.1.3 Erd/Def CTFrako bistaratze sistemak:
+
+MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari dena modu erakargarri batean erakustea da bistaratze sistemen helburua. Modu honetako 2 garapen burutu dira:
+
+##### 3.1.3.1 Markagailua
+
+GameServerrak badu markagailu bat, baina informazio gehiegi ematen du modu konplexu batean. Garapen berri honen bitartez, automatikoki eguneratzen den markagailu sinple eta erakargarria lortu nahi izan da, eraso ezberdinei buruzko momentuko informazioa ere ematen duena.
+
+##### 3.1.3.2 Argiztapena
+
+Ikusgarritasuna handitu asmoz, led argiz osatutako sistema bat jarri da martxan, talde bakoitzarentzat 2 argi dituelarik. CTF-an gertaturiko egoera ezberdinen aurrean modu ezberdinean jokatuko dute argiek. Saioa hastean eta amaitzean, argi guztiek kolorezko patroi bat egingo dute. Eraso bat dagoenean, talde erasotzailearen argiek kolore berdea hartuko dute, talde erasotuarenek aldiz, gorria. 
 
 ### 3.2 Pilotuak:
 #### 3.2.1 Phishing:
