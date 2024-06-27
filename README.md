@@ -55,24 +55,16 @@ Aurten 100. ikaslea izan dugu geure CyberRange-an. Ikasle guzti guztiek gomendat
 #### 3.1.1 Erd/Def CTF azpiegitura:
   - ##### Kokapena
 
-Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere lantzen dituen CTF plataforma bat martxan jartzerai ekin diogu ikasturte honetan.
+Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere eskatzen dituen CTF plataforma bat martxan jartzeari ekin diogu ikasturte honetan.
 
-Hasteko, mota honetako plataformak dagoeneko existitzen direnez, State-of-the-art ezagutu nahi izan genuen. OpenSource aukera anitz zeudela ikusi ondoren, hauetako batean oinarritzea erabaki genuen. Aukera desberdinak ikusi ostean Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiektu erabili ditugu:
+Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzeko zeinetan oinarritu behar ginen ebaluatu genuen. Aukera desberdinak ikusi ostean, Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiektu erabili ditugu:
 
       - Gameserverra: https://github.com/fausecteam/ctf-gameserver
       - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
 
-  - ##### Lehen hurbilepna: Terraform eta AWS
+Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den ERD/DEF CTF plataforma izan da emaitza.
 
-Gure CTF plataformak bi baldintza betete behar zituela ikusi genuen: lehena, azpiegitura guztia modu zentralizatuan eraikitzea; bigarrena, emamangarria eta erras errepikagarria izatea.
-
-Eramangarritasunari dagokionez, azpiegitura montatzeko IaC (Infraestructure as Code) motako tresnak erabiltzea egokia zela ikusita, **Terraformen** aldeko apustua egin genuen.
-
-Azpiegitura osoa modu zentralizatuan erakitzea esaten dugunean, beharrezko osagai guztiak, baita erabiltzaleek defendatu beharreko makinak ere, CTF plataforma bertan montatuko direla. Jatorrizko sistemak, FAUSTek garatutakoak, eredu desentralizatu bat dauka: erdian Gameserverra bere osagaiekin, beraien azpiegituretan, eta talde bakoitzak berak defendatu beharreko makinak, azpiegitura propioetan. Beraz, moldaketa hau zen gure lehen erronketako bat. Dena leku berean montatzeko aukera hori gauzatzeko orduan alternatiba desberdinak aztertu genituen eta agian altertatiba bat baino gehiagotan inplementatzea egokia izan ahal zela ikusi genuen. 
-
-Bi onarri horiek horrela, lehen aukera Terraform bidez AWSn hedapena egitea izan zen. Hai inplementatu genuen (oraindik zuzenketak behar dituen bertsio batean), baina AWSk bere horretan mugak zituela ikusi genuen. Bereziki objetuak (makinak sareak, sare gailuak...) sortzeko mugak oso azkar aurkitu genituen, eta muga hauek lausotzea eskatu deitekela jakinda ere, ez zen oso aukera praktikoa, eramaten zen leku bakoitzean mugen tratamendu egin beharko baitzen.
-
-<img align="center" src="img/er-def-terraform-aws.png">
+<img align="center" src="img/gameserver-proxmox.png">
 
 #### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
 
