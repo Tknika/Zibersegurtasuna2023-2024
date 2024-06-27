@@ -90,13 +90,13 @@ MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari d
 
    GameServerrak badu markagailu bat, baina informazio gehiegi ematen du modu konplexu batean. Garapen berri honen bitartez, automatikoki eguneratzen den markagailu sinple eta erakargarria lortu nahi izan da, eraso ezberdinei buruzko momentuko informazioa ere ematen duena.
    
-   <img align="center" src="img/CyberLehia Bistaratzea.png" width=50% height=50%>
+   <p align="center"><img src="img/CyberLehia Bistaratzea.png" width=50% height=50%></p>
 
 ##### 3.1.3.2 Argiztapena
 
    Ikusgarritasuna handitu asmoz, led argiz osatutako sistema bat jarri da martxan, talde bakoitzarentzat 2 argi dituelarik. CTF-an gertaturiko egoera ezberdinen aurrean modu ezberdinean jokatuko dute argiek. Saioa hastean eta amaitzean, argi guztiek kolorezko patroi bat egingo dute. Eraso bat dagoenean, talde erasotzailearen argiek kolore berdea hartuko dute, talde erasotuarenek aldiz, gorria. 
    
-   <img align="center" src="img/CyberLehia Argiztapena.jpg" width=50% height=50%>
+   <p align="center"><img align="center" src="img/CyberLehia Argiztapena.jpg" width=50% height=50%></p>
 
 ### 3.2 Pilotuak:
 #### 3.2.1 Phishing:
