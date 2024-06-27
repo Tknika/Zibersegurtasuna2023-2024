@@ -13,6 +13,7 @@
       - 3.1.1 Erd/Def CTF azpiegitura:
       - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
       - 3.1.3 Erd/Def CTFrako bistaratze sistema:
+      - 3.1.4 Cyber Range
    - 3.2 [Pilotuak:](#32-pilotuak)
       - 3.2.1 Phishing
       - 3.2.2 Vishing
@@ -37,6 +38,7 @@
 
 ## 2.2024ko zifrak:<img align="center" src="img/lerroa.png">
 <img align="left" src="img/ZIFRAK.png">  
+Aurten 100. ikaslea izan dugu geure CyberRange-an. Ikasle guzti guztiek gomendatzen dute esperientzia. 
 
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
@@ -54,13 +56,13 @@ Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzek
 #### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
 
 Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen; hona hemen zerbitzu horietako baten azalpentxoa, adibide modura: 
-   Zertan datza? ssh zerbitzu bat dugu martxan. Baimenduta dauka era biltzaile/pasahitza bitartez kautotzea; gainera, erabiltzaile baten pasahitzak ez die gomendio minimoei eusten. 
+   Zertan datza? ssh zerbitzu bat dugu martxan. Baimenduta dauka erabiltzaile/pasahitza bitartez kautotzea; gainera, erabiltzaile baten pasahitzak ez die gomendio minimoei eusten. 
    Ahuleziaren saikapena: OWASP-i dagokionez, hainbat taldetan multzokatu genezake, baina nagusia A07:2021-Identification and Authentication Failures kontsideratu liteke. 
    Erasoa: hiztegi-eraso bat gauzatu daiteke hydra bezalako tresna bat erabilita; hiztegirik izan ezean, eraso gordina bideratu daiteke. 
    Defentsa: desgaitu egin behar da erabiltzaile/pasahitza bitartez kautotzeko aukera; hori egin ostean, erabiltzaileak kriptografia asimetrikoaren bidez kautotu beharko dira, giltz bat erabilita.
 
-
 #### 3.1.3 Erd/Def CTFrako bistaratze sistema:
+
 ### 3.2 Pilotuak:
 #### 3.2.1 Phishing:
  - ##### Kokapena
