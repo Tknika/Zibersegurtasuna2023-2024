@@ -96,7 +96,7 @@ MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari d
 
    Ikusgarritasuna handitu asmoz, led argiz osatutako sistema bat jarri da martxan, talde bakoitzarentzat 2 argi dituelarik. CTF-an gertaturiko egoera ezberdinen aurrean modu ezberdinean jokatuko dute argiek. Saioa hastean eta amaitzean, argi guztiek kolorezko patroi bat egingo dute. Eraso bat dagoenean, talde erasotzailearen argiek kolore berdea hartuko dute, talde erasotuarenek aldiz, gorria. 
    
-   <img align="center" src="img/CyberLehia Argiztapena.png" width=50% height=50%>
+   <img align="center" src="img/CyberLehia Argiztapena.jpg" width=50% height=50%>
 
 ### 3.2 Pilotuak:
 #### 3.2.1 Phishing:
