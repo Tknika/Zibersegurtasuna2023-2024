@@ -45,9 +45,9 @@ Aurten 100. ikaslea izan dugu geure CyberRange-an. Ikasle guzti guztiek gomendat
 #### 3.1.1 Erd/Def CTF azpiegitura:
   - ##### Kokapena
 
-Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere ekaskatzen dituen CTF plataforma bat martxan jartzeri ekin diogu ikasturte honetan.
+Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere lantzen dituen CTF plataforma bat martxan jartzerai ekin diogu ikasturte honetan.
 
-Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzeko zeinetan oinarritu behar ginen ebaluatu genuen. Aukera desberdinak ikusi ostean Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiktu erabili ditugu:
+Hasteko, mota honetako plataformak dagoeneko existitzen direnez, State-of-the-art ezagutu nahi izan genuen. OpenSource aukera anitz zeudela ikusi ondoren, hauetako batean oinarritzea erabaki genuen. Aukera desberdinak ikusi ostean Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiektu erabili ditugu:
 
       - Gameserverra: https://github.com/fausecteam/ctf-gameserver
       - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
