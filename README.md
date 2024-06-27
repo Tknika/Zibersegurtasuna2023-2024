@@ -53,9 +53,11 @@ Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzek
 
 #### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
 
-Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen:
-
-        1 -
+Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen; hona hemen zerbitzu horietako baten azalpentxoa, adibide modura: 
+   Zertan datza? ssh zerbitzu bat dugu martxan. Baimenduta dauka era biltzaile/pasahitza bitartez kautotzea; gainera, erabiltzaile baten pasahitzak ez die gomendio minimoei eusten. 
+   Ahuleziaren saikapena: OWASP-i dagokionez, hainbat taldetan multzokatu genezake, baina nagusia A07:2021-Identification and Authentication Failures kontsideratu liteke. 
+   Erasoa: hiztegi-eraso bat gauzatu daiteke hydra bezalako tresna bat erabilita; hiztegirik izan ezean, eraso gordina bideratu daiteke. 
+   Defentsa: desgaitu egin behar da erabiltzaile/pasahitza bitartez kautotzeko aukera; hori egin ostean, erabiltzaileak kriptografia asimetrikoaren bidez kautotu beharko dira, giltz bat erabilita.
 
 
 #### 3.1.3 Erd/Def CTFrako bistaratze sistema:
