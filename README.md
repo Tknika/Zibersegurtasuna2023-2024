@@ -14,6 +14,8 @@
       - 3.1.1 Erd/Def CTF azpiegitura:
       - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
       - 3.1.3 Erd/Def CTFrako bistaratze sistemak:
+         - 3.1.3.1 Markagailua
+         - 3.1.3.2 Argiztapena
    - 3.2 [Pilotuak:](#32-pilotuak)
       - 3.2.1 Phishing
       - 3.2.2 Vishing
@@ -30,6 +32,7 @@
       - 3.5.1 Cyber car
       - 3.5.2 OT Erronkak
 5. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
+   - 5.1 [Ekintzailetza Jardunaldiak:](#51-ekintzailetza)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2023-24 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
