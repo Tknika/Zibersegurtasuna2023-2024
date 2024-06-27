@@ -13,7 +13,6 @@
       - 3.1.1 Erd/Def CTF azpiegitura:
       - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
       - 3.1.3 Erd/Def CTFrako bistaratze sistema:
-      - 3.1.4 Cyber Range
    - 3.2 [Pilotuak:](#32-pilotuak)
       - 3.2.1 Phishing
       - 3.2.2 Vishing
