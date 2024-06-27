@@ -52,6 +52,18 @@ Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzek
       - Gameserverra: https://github.com/fausecteam/ctf-gameserver
       - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
 
+  - ##### Lehen hurbilepna: Terraform eta AWS
+
+Gure CTF plataformak bi baldintza betete behar zituela ikusi genuen: lehena, azpiegitura guztia modu zentralizatuan eraikitzea; bigarrena, emamangarria eta erras errepikagarria izatea.
+
+Eramangarritasunari dagokionez, azpiegitura montatzeko IaC (Infraestructure as Code) motako tresnak erabiltzea egokia zela ikusita, **Terraformen** aldeko apustua egin genuen.
+
+Azpiegitura osoa modu zentralizatuan erakitzea esaten dugunean, beharrezko osagai guztiak, baita erabiltzaleek defendatu beharreko makinak ere, CTF plataforma bertan montatuko direla. Jatorrizko sistemak, FAUSTek garatutakoak, eredu desentralizatu bat dauka: erdian Gameserverra bere osagaiekin, beraien azpiegituretan, eta talde bakoitzak berak defendatu beharreko makinak, azpiegitura propioetan. Beraz, moldaketa hau zen gure lehen erronketako bat. Dena leku berean montatzeko aukera hori gauzatzeko orduan alternatiba desberdinak aztertu genituen eta agian altertatiba bat baino gehiagotan inplementatzea egokia izan ahal zela ikusi genuen. 
+
+Bi onarri horiek horrela, lehen aukera Terraform bidez AWSn hedapena egitea izan zen. Hai inplementatu genuen (oraindik zuzenketak behar dituen bertsio batean), baina AWSk bere horretan mugak zituela ikusi genuen. Bereziki objetuak (makinak sareak, sare gailuak...) sortzeko mugak oso azkar aurkitu genituen, eta muga hauek lausotzea eskatu deitekela jakinda ere, ez zen oso aukera praktikoa, eramaten zen leku bakoitzean mugen tratamendu egin beharko baitzen.
+
+<img align="center" src="img/er-def-terraform-aws.png">
+
 #### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
 
 Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen; hona hemen zerbitzu horietako baten azalpentxoa, adibide modura: 
