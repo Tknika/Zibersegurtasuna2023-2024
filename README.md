@@ -120,6 +120,7 @@ Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partek
 Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
 [Dokumentazio Gida](KONTZIENTZIAZIOA)
 #### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
+<a href="https://drive.google.com/drive/folders/1RZYG0BOWVfZFVcp6iwW28reY7XXHdKKw"> Edukiak </a>
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
 Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan dezaketen arriskuen ikuspegitik aztertu dira. Sareko ekipoak ezagutzeko tresnak erabili dira (Nmap), komunikazioetan sortzen den trafikoa aztertu da (Wireshark) eta PLC sistemak "erasotzeko" hainbat teknika erabili dira. 22/23 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatu dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko. Lehen tailerrean industria-komunikazioen gabeziak eta seguruak ez diren industria-sistemetan gerta daitezkeen erasoak aztertu dira.Partaide kopurua: 14 irakasle.
