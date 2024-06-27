@@ -6,9 +6,9 @@
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
 1. [Aurkezpena:](#1aurkezpena)
-   - 1.1 [Lan Taldea:](#11-lantaldea)  
-3. [2024ko zifrak:](#22024ko-zifrak)
-4. [Lan ildoak:](#3lan-ildoak)
+   - 1.1 [Lan Taldea:](#11-lantaldea)
+2. [2024ko zifrak:](#22024ko-zifrak)
+3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
       - 3.1.0 Cyber-Lehia
       - 3.1.1 Erd/Def CTF azpiegitura:
@@ -31,7 +31,7 @@
    - 3.5 Zentruetako proiektuak:
       - 3.5.1 Cyber car
       - 3.5.2 OT Erronkak
-5. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
+4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
    - 5.1 [Ekintzailetza Jardunaldiak:](#51-ekintzailetza)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
