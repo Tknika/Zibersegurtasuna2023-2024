@@ -6,7 +6,7 @@
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
 1. [Aurkezpena:](#1aurkezpena)
-   - 1.1 [Lan Taldea:](#11-lantaldea)
+   - 1.1 [Lan Taldea:](#11lantaldea)
 2. [2024ko zifrak:](#22024ko-zifrak)
 3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
