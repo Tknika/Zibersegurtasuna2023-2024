@@ -36,7 +36,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2023-24 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
-### 1.1Lan Taldea:
+### 1.1 Lan Taldea:
 Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
    - Garikoitz Etxeberria 
