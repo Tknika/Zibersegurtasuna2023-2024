@@ -105,7 +105,7 @@ Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen **bideo** laburra:
 #### 3.2.2 Vishing:
  - ##### Kokapena
 Iaz eta aurten phishing pilotuen lanketan ibili ondoren, **VISHING** kanpaña bat burutu da Tknikako instalazioetan eraso mota hauek izan dezaketen inpaktua lankideen artean jorratzeko. Dei telefoniko bidez eginiko kontzientziazio kanpaña bat izan da, eta beronen bueltan erabili diren teknikak eta tresnak gertuagotik ezagutzeko lagundu digu.
-Kanpaña hau, <a href="https://www.bedisruptive.com/"> BeDisruptive </a> enpresari eskatu zaio eta jarraian duzuen dokumentuan aurkituko dituzue kanpaña honen inguruko xehetasunak:
+Kanpaña hau, <a href="https://www.bedisruptive.com/" target="popup"> BeDisruptive </a> enpresari eskatu zaio eta jarraian duzuen dokumentuan aurkituko dituzue kanpaña honen inguruko xehetasunak:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
