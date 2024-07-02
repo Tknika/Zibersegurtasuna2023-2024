@@ -160,10 +160,10 @@ Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da.
 Galdera/erantzunak lantzen dituen dokumentua deskargatu dezakezu HEMEN.
 
 
-###  3.4 Sortutako edukiak:
+###  3.4Sortutako edukiak:
 
-###  3.5 Zentruetako proiektuak:
+###  3.5Zentruetako proiektuak:
 #### 3.5.1 Cyber car
 #### 3.5.2 OT Erronkak
-## 4. Harremanak eta Komunikazioa:
+## 4.Harremanak eta Komunikazioa:
 #### 4.1 Ekintzailetza Jardunaldiak:
