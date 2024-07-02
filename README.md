@@ -94,18 +94,18 @@ MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari d
 #### 3.2.1 Phishing:
  - ##### Kokapena
 
-Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tresna testeatu ondoren, aurtengo ikasturtean **Gophish** software librearen pilotu bat jorratu da. Github-etik deskargatu daiteke, <a href="https://github.com/gophish/gophish/releases"> esteka </a> honetatik. Kontzientziazio kanpañaren lehendabiziko fasean, Tknikako instalazioetan egin da lehen lanketa. Bertako langileen epostetara, email desberdinak bidali dira igorle faltsu batetatik, webgune faltsu batetarako estekarekin. Tknikan eginiko lanketaren balorazio positiboa egin ostean, pilotu hau Lanbide Heziketako ikastetxeetara zabaltzea erabaki zen. Ikastetxe desberdinei proposamena egin ondoren, azkenean Zubiri Manteo, Uni Eibar, Izarraitz eta Iurretako ikastetxeetan jorratu zen kanpañaren bigarren fasea. Bertako irakasleen emailetara, mezu desberdinak bidali zirelarik. 
+Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tresna testeatu ondoren, aurtengo ikasturtean **Gophish** software librearen pilotu bat jorratu da. Github-etik deskargatu daiteke, <a href="https://github.com/gophish/gophish/releases"> esteka </a> honetatik. Kontzientziazio kanpañaren lehendabiziko fasean, Tknikako instalazioetan egin da lehen lanketa. Bertako langileen epostetara, email desberdinak bidali dira igorle faltsu batetatik, webgune faltsu batetarako estekarekin. Tknikan eginiko lanketaren balorazio positiboa egin ostean, pilotu hau Lanbide Heziketako ikastetxeetara zabaltzea erabaki zen. Ikastetxe desberdinei proposamena egin ondoren, azkenean **Zubiri Manteo IES, Uni Eibar, Izarraitz LH** eta **Iurretako LHI** ikastetxeetan jorratu zen kanpañaren bigarren fasea. Bertako irakasleen emailetara, mezu desberdinak bidali zirelarik. 
 Jarraitutako urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
 <p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
 
-Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen bideo laburra:
+Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen **bideo** laburra:
 
 <p align="center"><a href="https://youtu.be/WRu7IkI5Jq4"> <img align="center" src="img/bideo_shot.jpg" width=50% height=50%> </a></p>
 
 #### 3.2.2 Vishing:
  - ##### Kokapena
-Iaz eta aurten phishing pilotuen lanketan ibili ondoren, VISHING kanpaña bat burutu da Tknikako instalazioetan eraso mota hauek izan dezaketen inpaktua lankideen artean jorratzeko. Dei telefoniko bidez eginiko kontzientziazio kanpaña bat izan da, eta beronen bueltan erabili diren teknikak eta tresnak gertuagotik ezagutzeko lagundu digu.
-Kanpaña hau, BeDisruptive enpresari eskatu zaio eta jarraian duzuen dokumentuan aurkituko dituzue kanpaña honen inguruko xehetasunak:
+Iaz eta aurten phishing pilotuen lanketan ibili ondoren, **VISHING** kanpaña bat burutu da Tknikako instalazioetan eraso mota hauek izan dezaketen inpaktua lankideen artean jorratzeko. Dei telefoniko bidez eginiko kontzientziazio kanpaña bat izan da, eta beronen bueltan erabili diren teknikak eta tresnak gertuagotik ezagutzeko lagundu digu.
+Kanpaña hau, <a href="https://www.bedisruptive.com/"> BeDisruptive </a> enpresari eskatu zaio eta jarraian duzuen dokumentuan aurkituko dituzue kanpaña honen inguruko xehetasunak:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
@@ -127,11 +127,11 @@ Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean.
 #### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
-Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da Phishing/Vishing tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Kontzientziazio kanpañak burutzeko urratsetan sakondu da: 
- - 1.Informazioa topatu (OSINT)
- - 2.Eszenatokiak sortu (SMTP zerbitzariak, GOPHISH ingurunea)
- - 3.Kanpañak diseinatu.
- - 4.Vishing nola?
+Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da **Phishing/Vishing** tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Kontzientziazio kanpañak burutzeko urratsetan sakondu da: 
+ - 1.Informazioa topatu (**OSINT**)
+ - 2.Eszenatokiak sortu (**SMTP zerbitzariak, GOPHISH ingurunea**)
+ - 3.**Kanpañak** diseinatu.
+ - 4.**Vishing** nola?
 
 Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
 [Dokumentazio Gida](KONTZIENTZIAZIOA)
