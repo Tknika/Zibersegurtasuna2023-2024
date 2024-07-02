@@ -113,7 +113,7 @@ Kanpaña hau, <a href="https://www.bedisruptive.com/"> BeDisruptive </a> enpresa
 <p align="center"><img src="img/htb.png"></p>
 
  - ##### Kokapena
-**Hack The Box** plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, **Txurdinagako LH** ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan [go](https://cyberlehia.fpeuskadi.eus/es/){:target="_blank" rel="noopener"} <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehian**</a>, etab ere erabili da eta bertatik jasotako esperientzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
+**Hack The Box** plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, **Txurdinagako LH** ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehian**</a>, etab ere erabili da eta bertatik jasotako esperientzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
 
 #### 3.2.4 Pentesting Pilotua Iurreta LHI:
 <p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
