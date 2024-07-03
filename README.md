@@ -27,10 +27,9 @@
       - 3.3.3 Sare industrialen segmentazio tailer praktikoa
       - 3.3.4 Web Garapen Segurua
       - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
-   - 3.4 [Sortutako edukiak:](#34sortutako-edukiak)
-   - 3.5 [Zentruetako proiektuak:](#35zentruetako-proiektuak)
-      - 3.5.1 Cyber car
-      - 3.5.2 OT Erronkak
+   - 3.4 [Zentruetako proiektuak:](#35zentruetako-proiektuak)
+      - 3.4.1 Cyber car
+      - 3.4.2 OT Erronkak
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
    - 4.1 [Ekintzailetza Jardunaldiak:](#41-ekintzailetza)
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -174,12 +173,9 @@ Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da.
 
 Galdera/erantzunak lantzen dituen <a href="docs/Normativa de ciberseguridad desde el punto de vista del docente - Ruth Sala.pdf" class="image fit">dokumentua deskargatu dezakezu HEMEN.</a>
  
-
-###  3.4Sortutako edukiak:
-
-###  3.5Zentruetako proiektuak:
-#### 3.5.1 Cyber car
-#### 3.5.2 OT Erronkak
+###  3.4 Zentruetako proiektuak:
+#### 3.4.1 Cyber car
+#### 3.4.2 OT Erronkak
 ## 4.Harremanak eta Komunikazioa:
 #### 4.1 Ikasenpresa / Ekintzailetza Jardunaldiak:
 
