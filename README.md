@@ -64,9 +64,9 @@ Garapen hauei eraldaketa eta gehikuntzak egin dizkiogu guk behar genuenera hurbi
 
 <img align="center" src="img/eskema-sinplea.png">
 
-Azpiegitura hau <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a>-n erabili da, Euskadiko Lanbide Heziketarako lehen zibersegurtasun txapelketan.
+Azpiegitura hau <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a>-n erabili da, Euskadiko Lanbide Heziketarako lehen zibersegurtasun txapelketan, finaleko jardunaldian, txapelketako talde irabazlea erabakitzeko.
 
-Hemen txapelketaren laburpen bideoa, finalean jardun duten ikasleak ikus daitezkeen, azpiegitura erabiliz, lehian.
+Hemen txapelketaren laburpen bideoa.
 
 <p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/Screenshot_CyberLehia.png" width=50% height=50%> </a></p>
 
