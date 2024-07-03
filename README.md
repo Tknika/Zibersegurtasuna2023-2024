@@ -181,4 +181,8 @@ Galdera/erantzunak lantzen dituen <a href="docs/Normativa de ciberseguridad desd
 #### 3.5.1 Cyber car
 #### 3.5.2 OT Erronkak
 ## 4.Harremanak eta Komunikazioa:
-#### 4.1 Ekintzailetza Jardunaldiak:
+#### 4.1 Ikasenpresa / Ekintzailetza Jardunaldiak:
+
+Ikasenpresako 3 ekitaldietan hitzaldiak eman ditugu ekintzaile gazteei beraien enpresetan erabil zitzaketen zibersegurtasun aholkuak emateko asmoz. Hona hemen erabilitako aurkezpena.
+
+<p align="center"> <a href="docs/Cyber Security For Small Business.pdf" class="image fit"><img src="img/Screenshot_ekintzailetza.png" alt="" width="50%" height="50%"></a></p>
