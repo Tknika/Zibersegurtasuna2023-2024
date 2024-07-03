@@ -52,12 +52,28 @@ Aurten 100. ikaslea izan dugu geure CyberRange-an. Ikasle guzti guztiek gomendat
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
 ### 3.1 Proiektuak:
+3.1.0 Cyber-Lehia
+#### 3.1.0 Erd/Def CTF-a:
+  - ##### Kokapena
+
+Aurreko ikasturtean CyberRangea kontsolidatu ondoren, erasorako edo ikerketarako gaitasunez gain, defentsarako eta hutsuneak zuzentzeko gaitasunak ere eskatzen dituen CTF plataforma bat martxan jartzeari ekin diogu ikasturte honetan. CyberRangea orain arte Jeopardy motako CTF-a izan da, eta aurten eraso/defentsa motakoa menperatu eta erabiltzeko gaitasuna lortzea zen helburua.
+
+Mota honetako plataformak dagoeneko existitzen direnez, lehenik State-of-the-art nolakoa zen begiratu dugu. Garatutako opensource aukera anitz zeudela ikustean, horietan oinarritzea egoki ikusi dugu, zehazki Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldearen (FAUST) bi garapenetan. Bi garapen hauek urtero erabiliak dira Unibertsitateak burutzen duen ER/DEF nazioarteko proban.
+
+Garapen hauei eraldaketa eta gehikuntzak egin dizkiogu guk behar genuenera hurbiltzeko. Gure garapenaren lehen bertsioa honela errepresentatu daiteke:
+
+<img align="center" src="img/eskema-sinplea.png">
+
+Azpiegitura hau <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a>-n erabili da, Euskadiko Lanbide Heziketarako lehen zibersegurtasun txapelketan.
+
+Hemen txapelketaren laburpen bideoa, finalean jardun duten ikasleak ikus daitezkeen, azpiegitura erabiliz, lehian.
+
+<p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/screenshot_cyberlehia.png" width=50% height=50%> </a></p>
+
 #### 3.1.1 Erd/Def CTF azpiegitura:
   - ##### Kokapena
 
-Aurreko ikasturtean CyberRangea kontsolidatu ostean, erasorako edo ikerketarako gaitasunez gain defentsarako eta hutsuneak zuzentzeko gaitasunak ere eskatzen dituen CTF plataforma bat martxan jartzeari ekin diogu ikasturte honetan.
-
-Hasteko, mota honetako plataformak dagoeneko existitzen direnez, gurea muntatzeko zeinetan oinarritu behar ginen ebaluatu genuen. Aukera desberdinak ikusi ostean, Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldeak (FAUST) burutzen duen mota honetako nazioarteko probarako garatutako plataforman oinarritu gara eta beraien bi proiektu erabili ditugu:
+FAUST Taldearen erabilitako bi proiektuak hauek dira:
 
       - Gameserverra: https://github.com/fausecteam/ctf-gameserver
       - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
