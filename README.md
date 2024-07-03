@@ -52,7 +52,6 @@ Aurten 100. ikaslea izan dugu geure CyberRange-an. Saioan partehartu ondoren pas
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
 ### 3.1 Proiektuak:
-3.1.0 Cyber-Lehia
 #### 3.1.0 Erd/Def CTF-a:
   - ##### Kokapena
 
