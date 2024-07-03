@@ -68,7 +68,7 @@ Azpiegitura hau <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a>
 
 Hemen txapelketaren laburpen bideoa, finalean jardun duten ikasleak ikus daitezkeen, azpiegitura erabiliz, lehian.
 
-<p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/screenshot_cyberlehia.png" width=50% height=50%> </a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/Screenshot_CyberLehia.png" width=50% height=50%> </a></p>
 
 #### 3.1.1 Erd/Def CTF azpiegitura:
   - ##### Kokapena
