@@ -47,7 +47,7 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 ## 2.2024ko zifrak:<img align="center" src="img/lerroa.png">
 <img align="left" src="img/ZIFRAK.png">  
-Aurten 100. ikaslea izan dugu geure CyberRange-an. Ikasle guzti guztiek gomendatzen dute esperientzia. 
+Aurten 100. ikaslea izan dugu geure CyberRange-an. Saioan partehartu ondoren pasatzen diegun inkestan diotenez, ikasle guzti guztiek gomendatzen dute esperientzia. 
 
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
