@@ -27,7 +27,7 @@
       - 3.3.3 Sare industrialen segmentazio tailer praktikoa
       - 3.3.4 Web Garapen Segurua
       - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
-   - 3.4 [Zentruetako proiektuak:](#35zentruetako-proiektuak)
+   - 3.4 [Zentruetako proiektuak:](#34-zentruetako-proiektuak)
       - 3.4.1 Cyber car
       - 3.4.2 OT Erronkak
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
