@@ -1,4 +1,5 @@
 <img align="center" src="img/kabezera2024.jpg">
+<p align="center"> <a href="[docs/Cyber Security For Small Business.pdf](https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md)" class="image fit"><img src="img/header2024.jpg" alt="" width="30%" height="30%"></a></p>
 
 # Zibersegurtasuna 2023-2024
 **Tknikako Zibersegurtasun lan taldearen 2023 - 2024 kurtsoko memoria** (go to [ENGLISH Version](https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md). Aurreko ikasturteko memoria ikusi nahi izanez gero (2022-2023) [hemen](https://github.com/Tknika/Zibersegurtasuna2022-2023) aurkitu dezakezu.
@@ -75,7 +76,7 @@ Hemen txapelketaren laburpen bideoa.
 
 FAUST Taldearen erabilitako bi proiektuak hauek dira: [CTF Gameserver](https://github.com/fausecteam/ctf-gameserver) (garapenaren oinarria) eta [CTF Gameserver Ansible deployment](https://github.com/fausecteam/ctf-gameserver-ansible) (Ansible bidez plataforma horren hedapena egiteko IaC kodea)
 
-Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den ERD/DEF CTF plataforma izan da emaitza.
+Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den /DEF CTF plataforma izan da emaitza.
 
 <img align="center" src="img/gameserver-proxmox.png">
 
