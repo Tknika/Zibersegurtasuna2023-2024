@@ -22,7 +22,7 @@
    - 3.2.3 Hack the box
    - 3.2.4 Pentesting
 - 3.3 [Courses:](#33courses)
-   - 3.3.1 Awareness bells: Phishing-Vishing
+   - 3.3.1 Awareness campaigns: Phishing-Vishing
    - 3.3.2 Practical workshop to attack unsafe industrial communications
    - 3.3.3 Practical workshop for the segmentation of industrial networks
    - 3.3.4 Secure Web Development
@@ -119,7 +119,7 @@ Short **video** of the pilot's execution in Tknika:
 
 #### 3.2.2 Vishing:
  - ##### Context
-After working on phishing pilots last year and this year, a* VISHING** bell has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness bell made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
+After working on phishing pilots last year and this year, a **VISHING** bell has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness bell made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
 This campaign, has been requested <a href="https://www.bedisruptive.com/"> BeDisruptive </a> company and in the following document you will find the details of this bell:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
@@ -128,7 +128,7 @@ This campaign, has been requested <a href="https://www.bedisruptive.com/"> BeDis
 <p align="center"><img src="img/htb.png"></p>
 
  - ##### Context
-** The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the FP** Txurdinaga. The different laboratories offered by HTB have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an HTB challenge.
+**The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the **FP Txurdinaga**. The different laboratories offered by HTB have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an HTB challenge.
 
 #### 3.2.4 Pentesting Pilot Iurreta LHI:
 <p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
@@ -139,46 +139,47 @@ From the cybersecurity area of Tknika, a Pentest pilot has been launched for the
 In order to share the work done at the CEP Iurreta, a Webinar was held in June. Webinar's goal has been to present the results obtained and share the experience with those interested in the process.
 
 ### 3.3 Courses:
-#### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
+#### 3.3.1 Awareness campaigns: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
-Tknikan landuriko pilotuen ildoa jarraituz, bertan bilduriko esperientzia partekatu asmoz, ikastaro bat eman da **Phishing/Vishing** tekniken kontzientziazioa landuz. Kontzientziazio kanpañak burutzeko metodologiak eta tresnak landu dira bertan. Kontzientziazio kanpañak burutzeko urratsetan sakondu da: 
- - 1.Informazioa topatu (**OSINT**)
- - 2.Eszenatokiak sortu (**SMTP zerbitzariak, GOPHISH ingurunea**)
- - 3.**Kanpañak** diseinatu.
- - 4.**Vishing** nola?
+Following the line of pilots planted in Tknika, in order to share the experience gathered there, a course has been given to raise awareness of techniques **Phishing/Vishing**. It has developed methodologies and tools for carrying out awareness campaigns. It has deepened the steps of carrying out the campaigns of awareness: 
+ - 1.Find the information. (**OSINT**)
+ - 2.Creating scenarios (**SMTP server, GOPHISH labs**)
+ - 3.Designing **campaigns**.
+ - 4.Steps **Vishing**?
 
-Ikastaroan erabilitako materiala, Githubek errepositorio honetan duzue ikusgai.
+The material used in the course is displayed in this repository by Githubek.
 [Dokumentazio Gida](KONTZIENTZIAZIOA)
-#### 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
-<a href="https://drive.google.com/drive/folders/1RZYG0BOWVfZFVcp6iwW28reY7XXHdKKw"> Edukiak </a>
+
+#### 3.3.2 Practical workshop to attack unsafe industrial communications
+<a href="https://drive.google.com/drive/folders/1RZYG0BOWVfZFVcp6iwW28reY7XXHdKKw"> Content </a>
 <p align="center"><img src="img/OTkurtsorako-irudia1.jpg"></p>
 
-Lantegi praktiko honetan, industria-sistemak komunikazio ez-seguruen eta izan dezaketen arriskuen ikuspegitik aztertu dira. Sareko ekipoak ezagutzeko tresnak erabili dira (Nmap), komunikazioetan sortzen den trafikoa aztertu da (Wireshark) eta PLC sistemak "erasotzeko" hainbat teknika erabili dira. 22/23 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatu dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko. Lehen tailerrean industria-komunikazioen gabeziak eta seguruak ez diren industria-sistemetan gerta daitezkeen erasoak aztertu dira.Partaide kopurua: 14 irakasle.
+In this practical workshop, industrial systems have been analysed from the perspective of unsafe communications and potential risks. Network equipment recognition tools (Nmap) have been used, communications traffic has been analysed (Wireshark) and various techniques have been used to "attack" PLC systems. During the course 22/23, a course was given to take into account cybersecurity in industrial control systems. It addressed the aspects to be taken into account from the point of view of cybersecurity in the configuration of industrial systems. As a complement to the introductory training, a number of practical workshops have been proposed to work in a practical manner on the various sections of the course. The first workshop examines the lack of industrial communications and possible attacks on unsafe industrial systems. Number of participants: 14 teachers.
 
-#### 3.3.3 Sare industrialen segmentazio tailer praktikoa
-<a href="https://drive.google.com/drive/folders/12DOwM5J-GNARspU_LaM2hmHa2buSFuWq"> Edukiak </a>
+#### 3.3.3 Practical workshop for the segmentation of industrial networks
+<a href="https://drive.google.com/drive/folders/12DOwM5J-GNARspU_LaM2hmHa2buSFuWq"> Content </a>
 <p align="center"><img width="50%" height="50%"img src="img/red-ot.jpg"></p>
-Lantegi praktiko honetan sare industrialak segmentatuta izatearen garrantzia aztertuko da. Segmentazio egoki bati esker, ekoizpen-sarean eragina izan dezaketen eta zabaldu ez daitezkeen segurtasun-intzidenteak arindu ditzakegu. Era berean, IEC 62443 segurtasun-araudiak IT/OT sareak bereizita izatera behartzen du. Siemens familiako gailuak, Scalance 615 suhesiak eta Switch 208,408 gailuak erabiliko dira konfigurazioak egiteko. 23/24 ikasturtean, industria-kontroleko sistemetan zibersegurtasuna kontuan izateko ikastaroa eman zen. Bertan, sistema industrialak konfiguratzeko orduan zibersegurtasunaren ikuspegitik kontuan hartu beharreko atalak jorratu ziren. Sarrerako prestakuntzaren osagarri gisa, tailer praktiko batzuk planteatuko dira, ikastaro horretan ikusitako hainbat atal modu praktikoan lantzeko.Partaide kopurua: 16 irakasle.
+This practical workshop will address the importance of segmented industrial networks. Due to proper segmentation, we can mitigate security incidents that may affect the productive fabric and may not spread. Similarly, IEC Security Regulation 62443 requires IT/OT networks to be separate. Siemens family devices, Scalance 615 firewalls and Switch 208,408 devices will be used for configuration. During the 23/24 course, a course was given to take into account cybersecurity in industrial control systems. It addressed the aspects to be taken into account from the point of view of cybersecurity in the configuration of industrial systems. As a complement to the introductory training, a number of practical workshops will be planned to work in a practical manner on the various sections of the course. Number of participants: 16 teachers.
 
-#### 3.3.4 Web Garapen Segurua
+#### 3.3.4 Secure Web Development
 <p align="center"><img width="50%" height="50%" src="img/garapen-segurua.jpg"></p>
 
-Prestakuntza honen helburua, segurtasuna web garapenaren bizi-zikloaren parte izan dadin, beharrezkoa den ezagutza zabaltzea izan da. Segurtasuna oso espazio zabaleko gaia den arren, prestakuntza honetan web inguruneetan (aplikazioak eta APIak) ematen diren ahulgune ohikoenetan enfokatuko gara. Aipatutako ahulguneak ekiditeko jarraitu beharreko praktika onak ezagutzera eman dira.
-Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beharreko alderdiak aztertu dira. Horretarako, OWASP erakundeak jasotako ahultasunen top 10ean oinarritu da. OWASP (Open Web Application Security Project) irabazi asmorik gabeko erakunde bat da, eta bere helburua softwarearen segurtasuna hobetzean datza.
-“Juice Shop” open source aplikazioa erabili da ikasitakoa praktikan jartzeko. Aplikazio hau segurtasun arazoez beteta dago eta gamifikazio osagai bat du. Ahuleziak ustiatzen diren heinean, lorpenak desblokeatzen dira eta parte-hartzaileak sailkatzen dituen ranking bat sortzen da. Ahuleziak aurkitu ahala, erlazionatutako kodea aztertuko da eta funtzionalitatea modu seguruan garatzeko jarraitu beharreko irizpideak azaltzen dira.
+The purpose of this training has been to expand the knowledge necessary for security to be part of the life cycle of web development. Although security is a very broad topic, this training focuses on the most common weaknesses in web environments (applications and APIs). Good practices to be followed to avoid the aforementioned weaknesses have been made known.
+This training has analysed the aspects to be taken into account for safe development in web environments. That's an e, and its goal is to improve software security.
+Juice Shop has been used in the open source app to put what you've learned into practice. This app is full of security issues and has a gamification component. As weaknesses are exploited, the achievements are unblocked, and a ranking is created that classifies the participants. As weaknesses are identified, the related code will be studied and the criteria to be followed for the safe development of functionality explained.
 
-#### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
-Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da. Webinar hau <a href="https://www.linkedin.com/in/ruthsala/?originalSubdomain=es">Ruth Sala</a> abokatuak eta gaian adituak eman du, eta bertan zibersegurtasunaren atalean burutzen diren hainbat praktiken legalitatearen inguruan egon daitezkeen galderak erantzun zituen bertan.
+#### 3.3.5 "Cybersecurity regulations from the teacher's point of view". Webinar (Ruth Sala)
+From the professor's point of view, the webinar on Cybersecurity Regulations has been completed. This Webinar has been provided by the lawyer and expert on the subject.<a href="https://www.linkedin.com/in/ruthsala/?originalSubdomain=es">Ruth Sala</a>, and there he answered any questions that might exist about the legality of certain practices in the cybersecurity section.
 <p align="center"><a href="https://www.youtube.com/live/JUFNl8AUOO0"> <img align="center" src="img/screenshot_rsala.jpg" width=50% height=50%> </a></p>
 
-Galdera/erantzunak lantzen dituen <a href="docs/Normativa de ciberseguridad desde el punto de vista del docente - Ruth Sala.pdf" class="image fit">dokumentua deskargatu dezakezu HEMEN.</a>
+You can download the document that works on questions/answers <a href="docs/Normativa de ciberseguridad desde el punto de vista del docente - Ruth Sala.pdf" class="image fit">HERE.</a>
  
-###  3.4 Zentruetako proiektuak:
+###  3.4 Centre projects:
 #### 3.4.1 Cyber car
-#### 3.4.2 OT Erronkak
-## 4.Harremanak eta Komunikazioa:
-#### 4.1 Ikasenpresa / Ekintzailetza Jardunaldiak:
+#### 3.4.2 OT Challenges
+## 4.Relations and Communication:
+#### 4.1 Ikasenpresa / Entrepreneurship Days:
 
 Ikasenpresako 3 ekitaldietan hitzaldiak eman ditugu ekintzaile gazteei beraien enpresetan erabil zitzaketen zibersegurtasun aholkuak emateko asmoz. Hona hemen erabilitako aurkezpena.
 
