@@ -26,7 +26,7 @@
       - 3.3.2 Practical workshop to attack unsafe industrial communications
       - 3.3.3 Practical workshop for the segmentation of industrial networks
       - 3.3.4 Secure Web Development
-      -3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
+      - 3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
    - 3.4 [Centre projects:](#34-centre-projects)
       - 3.4.1 Cyber car
       - 3.4.2 OT Challenges
