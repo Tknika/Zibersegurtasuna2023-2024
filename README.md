@@ -1,7 +1,7 @@
 <img align="center" src="img/kabezera2024.jpg">
 
 # Zibersegurtasuna 2023-2024
-**Tknikako Zibersegurtasun lan taldearen 2023 - 2024 kurtsoko memoria** (go to [ENGLISH Version](https://github.com/Tknika/Zibersegurtasuna2023-2024/edit/main/README.md)). Aurreko urteko memoria ikusi nahi izanez gero [hemen](https://github.com/Tknika/Zibersegurtasuna2022-2023) aurkitu dezakezu.
+**Tknikako Zibersegurtasun lan taldearen 2023 - 2024 kurtsoko memoria** (go to [ENGLISH Version](https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md). Aurreko ikasturteko memoria ikusi nahi izanez gero (2022-2023) [hemen](https://github.com/Tknika/Zibersegurtasuna2022-2023) aurkitu dezakezu.
 
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
@@ -12,10 +12,10 @@
   - [2.2024ko zifrak:](#22024ko-zifrak)
   - [3.Lan ildoak:](#3lan-ildoak)
     - [3.1 Proiektuak:](#31-proiektuak)
-      - [3.1.0 Erd/Def CTF-a:](#310-erddef-ctf-a)
-      - [3.1.1 Erd/Def CTF azpiegitura:](#311-erddef-ctf-azpiegitura)
-      - [3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):](#312-erddef-ctfrako-ariketak-zerbitzuak)
-      - [3.1.3 Erd/Def CTFrako bistaratze sistemak:](#313-erddef-ctfrako-bistaratze-sistemak)
+      - [3.1.0 Er/Def CTF-a:](#310-erdef-ctf-a)
+      - [3.1.1 Er/Def CTF azpiegitura:](#311-erdef-ctf-azpiegitura)
+      - [3.1.2 Er/Def CTFrako ariketak (Zerbitzuak):](#312-erdef-ctfrako-ariketak-zerbitzuak)
+      - [3.1.3 Er/Def CTFrako bistaratze sistemak:](#313-erdef-ctfrako-bistaratze-sistemak)
         - [3.1.3.1 Markagailua](#3131-markagailua)
         - [3.1.3.2 Argiztapena](#3132-argiztapena)
     - [3.2 Pilotuak:](#32-pilotuak)
@@ -53,7 +53,7 @@ Aurten 100. ikaslea izan dugu geure CyberRange-an. Saioan partehartu ondoren pas
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
 ### 3.1 Proiektuak:
-#### 3.1.0 Erd/Def CTF-a:
+#### 3.1.0 Er/Def CTF-a:
   - ##### Kokapena
 
 Aurreko ikasturtean CyberRangea kontsolidatu ondoren, erasorako edo ikerketarako gaitasunez gain, defentsarako eta hutsuneak zuzentzeko gaitasunak ere eskatzen dituen CTF plataforma bat martxan jartzeari ekin diogu ikasturte honetan. CyberRangea orain arte Jeopardy motako CTF-a izan da, eta aurten [eraso/defentsa CTF](https://2022.faustctf.net/information/attackdefense-for-beginners/) mota menperatu eta erabiltzeko gaitasuna lortzea zen helburua.
@@ -70,7 +70,7 @@ Hemen txapelketaren laburpen bideoa.
 
 <p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/Screenshot_CyberLehia.png" width=50% height=50%> </a></p>
 
-#### 3.1.1 Erd/Def CTF azpiegitura:
+#### 3.1.1 Er/Def CTF azpiegitura:
   - ##### Kokapena
 
 FAUST Taldearen erabilitako bi proiektuak hauek dira: [CTF Gameserver](https://github.com/fausecteam/ctf-gameserver) (garapenaren oinarria) eta [CTF Gameserver Ansible deployment](https://github.com/fausecteam/ctf-gameserver-ansible) (Ansible bidez plataforma horren hedapena egiteko IaC kodea)
@@ -79,7 +79,7 @@ Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk beha
 
 <img align="center" src="img/gameserver-proxmox.png">
 
-#### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
+#### 3.1.2 Er/Def CTFrako ariketak (Zerbitzuak):
 
 Behin azpiegitura erabilgarri genuela, 6 ariketa edo zerbitzu sortu genituen; hona hemen zerbitzu horietako baten azalpentxoa, adibide modura: 
    - Zertan datza? ssh zerbitzu bat dugu martxan. Baimenduta dauka erabiltzaile/pasahitza bitartez kautotzea; gainera, erabiltzaile baten pasahitzak ez die gomendio minimoei eusten. 
@@ -87,7 +87,7 @@ Behin azpiegitura erabilgarri genuela, 6 ariketa edo zerbitzu sortu genituen; ho
    - Erasoa: hiztegi-eraso bat gauzatu daiteke hydra bezalako tresna bat erabilita; hiztegirik izan ezean, eraso gordina bideratu daiteke. 
    - Defentsa: desgaitu egin behar da erabiltzaile/pasahitza bitartez kautotzeko aukera; hori egin ostean, erabiltzaileak kriptografia asimetrikoaren bidez kautotu beharko dira, giltz bat erabilita.
 
-#### 3.1.3 Erd/Def CTFrako bistaratze sistemak:
+#### 3.1.3 Er/Def CTFrako bistaratze sistemak:
 
 MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari dena modu erakargarri batean erakustea da bistaratze sistemen helburua. Modu honetako 2 garapen burutu dira:
 
@@ -165,6 +165,9 @@ Lantegi praktiko honetan sare industrialak segmentatuta izatearen garrantzia azt
 Prestakuntza honen helburua, segurtasuna web garapenaren bizi-zikloaren parte izan dadin, beharrezkoa den ezagutza zabaltzea izan da. Segurtasuna oso espazio zabaleko gaia den arren, prestakuntza honetan web inguruneetan (aplikazioak eta APIak) ematen diren ahulgune ohikoenetan enfokatuko gara. Aipatutako ahulguneak ekiditeko jarraitu beharreko praktika onak ezagutzera eman dira.
 Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beharreko alderdiak aztertu dira. Horretarako, OWASP erakundeak jasotako ahultasunen top 10ean oinarritu da. [OWASP (Open Web Application Security Project)](https://owasp.org/) irabazi asmorik gabeko erakunde bat da, eta bere helburua softwarearen segurtasuna hobetzean datza.
 “Juice Shop” open source aplikazioa erabili da ikasitakoa praktikan jartzeko. Aplikazio hau segurtasun arazoez beteta dago eta gamifikazio osagai bat du. Ahuleziak ustiatzen diren heinean, lorpenak desblokeatzen dira eta parte-hartzaileak sailkatzen dituen ranking bat sortzen da. Ahuleziak aurkitu ahala, erlazionatutako kodea aztertuko da eta funtzionalitatea modu seguruan garatzeko jarraitu beharreko irizpideak azaltzen dira.
+
+<p align="center"> <a href="docs/Desarrollo seguro parte I.pdf" class="image fit"><img src="img/Web Garapen Segurua 1.png" alt="" width="50%" height="50%"></a></p>
+<p align="center"> <a href="docs/Desarrollo seguro parte II.pdf" class="image fit"><img src="img/Web Garapen Segurua 2.png" alt="" width="50%" height="50%"></a></p>
 
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
 Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da. Webinar hau <a href="https://www.linkedin.com/in/ruthsala/?originalSubdomain=es">Ruth Sala</a> abokatuak eta gaian adituak eman du, eta bertan zibersegurtasunaren atalean burutzen diren hainbat praktiken legalitatearen inguruan egon daitezkeen galderak erantzun zituen bertan.
