@@ -119,7 +119,7 @@ Short **video** of the pilot's execution in Tknika:
 #### 3.2.2 Vishing:
  - ##### Context
 After working on phishing pilots last year and this year, a **VISHING** campaign has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness campaign made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
-This campaign, has campaigns requested <a href="https://www.bedisruptive.com/"> **BeDisruptive** </a> company and in the following document you will find the details of this campaign:
+This campaign, was requested <a href="https://www.bedisruptive.com/"> **BeDisruptive** </a> company, by the speaker <a href="https://www.linkedin.com/in/ignacio-brihuega-rodr%C3%ADguez-b89564a6/"> **Nacho Brihuega** </a> and in the following document you will find the details of this campaign:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
@@ -127,13 +127,13 @@ This campaign, has campaigns requested <a href="https://www.bedisruptive.com/"> 
 <p align="center"><img src="img/htb.png"></p>
 
  - ##### Context
-**The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the **FP Txurdinaga**. The different laboratories offered by **HTB** have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an **HTB challenge**.
+**The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the **FP Txurdinaga**. The different laboratories offered by **HTB** have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an **HTB challenge**.
 
 #### 3.2.4 Pentesting Pilot Iurreta LHI:
 <p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
 
  - ##### Context
-From the cybersecurity area of Tknika, a Pentest pilot has been launched for the second year in a row. In this pilot, a student specializing in cybersecurity, with the help of a sector company (JakinCode), conducts a security audit of a center (**Iurreta LHI**).
+From the cybersecurity area of Tknika, a Pentest pilot has been launched for the second year in a row. In this pilot, a Durango Maristas's student specializing in cybersecurity, with the help of a sector company (JakinCode), conducts a security audit of a center (**Iurreta LHI**).
 
 In order to share the work done at the CEP Iurreta, a Webinar was held in June. Webinar's goal has been to present the results obtained and share the experience with those interested in the process.
 
@@ -164,7 +164,7 @@ This practical workshop will address the importance of segmented industrial netw
 #### 3.3.4 Secure Web Development
 <p align="center"><img width="50%" height="50%" src="img/garapen-segurua.jpg"></p>
 
-The purpose of this training has been to expand the knowledge necessary for security to be part of the life cycle of web development. Although security is a very broad topic, this training focuses on the most common weaknesses in web environments (applications and APIs). Good practices to be followed to avoid the aforementioned weaknesses have been made known.
+This course was given by the company <a href="https://arima.eu/">Arima</a>. The purpose of this training has been to expand the knowledge necessary for security to be part of the life cycle of web development. Although security is a very broad topic, this training focuses on the most common weaknesses in web environments (applications and APIs). Good practices to be followed to avoid the aforementioned weaknesses have been made known.
 This training has analysed the aspects to be taken into account for safe development in web environments. That's an e, and its goal is to improve software security.
 Juice Shop has been used in the open source app to put what you've learned into practice. This app is full of security issues and has a gamification component. As weaknesses are exploited, the achievements are unblocked, and a ranking is created that classifies the participants. As weaknesses are identified, the related code will be studied and the criteria to be followed for the safe development of functionality explained.
 
