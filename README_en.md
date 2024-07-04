@@ -1,4 +1,4 @@
-<img align="center" src="img/kabezera2024.jpg">
+<img align="center" src="img/header2024.jpg">
 
 # Cybersecurity 2023-2024
 **Memory of the 2023 – 2024 course of the Tknika Cybersecurity Team**
