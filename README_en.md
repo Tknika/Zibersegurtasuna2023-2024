@@ -75,7 +75,7 @@ The two projects used by the FAUST Group are:
       - [Gameserver:](https://github.com/fausecteam/ctf-gameserver)
       - [Installation process using Ansible:](https://github.com/fausecteam/ctf-gameserver-ansible)
 
-On the basis of this work, important adaptations have been needed to implement the model we needed, including the addition of the entire substructure of the groups on the platform itself. The result has been the ATK/DEF CTF platform that spreads through Terraform on Proxmox (also under way version of AWS).
+On the basis of this work, important adaptations have been needed to implement the model we needed, including the addition of the entire substructure of the groups on the platform itself. The result has been the ER/DEF CTF platform that spreads through Terraform on Proxmox (also under way version of AWS). In two repositories we have received this work: [ctf-gameserver-terraform](https://github.com/Tknika/ctf-gameserver-terraform) , which contains the main assembly; and [ctf-gameserver-mqtt](https://github.com/Tknika/ctf-gameserver-mqtt), which adds the component of the mqtt broker.
 
 <img align="center" src="img/gameserver-proxmox.png">
 
