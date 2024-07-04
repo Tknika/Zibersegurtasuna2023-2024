@@ -53,9 +53,9 @@ This year we've had 100 students on our Cyber Range. In the survey that we pass 
 #### 3.1.0 Atk/Def CTF:
   - ##### Context
 
-After the consolidation of the CyberRange last year, this course has begun the launch of a CTF platform that requires, in addition to offensive or investigative capabilities, defensive and gap correction capabilities. The CyberRange has hitherto been the Jeopardy CTF, and this year the aim was to gain the ability to handle and use the attack/defense type.
+After the consolidation of the CyberRange last year, this course has begun the launch of a CTF platform that requires, in addition to offensive or investigative capabilities, defensive and gap correction capabilities. The CyberRange has hitherto been the Jeopardy CTF, and this year the aim was to gain the ability to handle and use the [attack/defense](https://2022.faustctf.net/information/attackdefense-for-beginners/)  type.
 
-As platforms of this kind already exist, we first looked at what State-of-the-art was like. In view of the wide variety of opensource options developed, we found it appropriate to rely on them, namely the two developments of the Friedrich-Alexander University Erlangen-Nürnberg University Security Team (FAU). These two developments are used annually in the University's international ATK/DEF test.
+As platforms of this kind already exist, we first looked at what State-of-the-art was like. In view of the wide variety of opensource options developed, we found it appropriate to rely on them, namely the two developments of the Friedrich-Alexander University [FAU](https://www.fau.eu/) Erlangen-Nürnberg University Security Team [FAUST](https://faust.cs.fau.de/). These two developments are used annually in the University's international ATK/DEF test.
 
 We have made modifications and additions to these developments to bring them closer to what we needed. The first version of our development can be represented as follows:
 
@@ -72,8 +72,8 @@ Here's the summary video of the tournament.
 
 The two projects used by the FAUST Group are:
 
-      - Gameserver: https://github.com/fausecteam/ctf-gameserver
-      - Installation process using Ansible: https://github.com/fausecteam/ctf-gameserver-ansible
+      - [Gameserver:](https://github.com/fausecteam/ctf-gameserver)
+      - [Installation process using Ansible:](https://github.com/fausecteam/ctf-gameserver-ansible)
 
 On the basis of this work, important adaptations have been needed to implement the model we needed, including the addition of the entire substructure of the groups on the platform itself. The result has been the ATK/DEF CTF platform that spreads through Terraform on Proxmox (also under way version of AWS).
 
@@ -83,7 +83,7 @@ On the basis of this work, important adaptations have been needed to implement t
 
 Once we had the infrastructure available, we created the first tests to test it, and when it was decided that we would then use the infrastructure in the Cyber Competition finals, we created six exercises or services with those originally added to them; here's a little explanation of one of those services, by way of example:
 We have a ssh service in place. It is allowed to authenticate by user/password; moreover, a user's password does not maintain minimum recommendations.
-Weakening: As far as OWASPE is concerned, we could group it into several groups, but the main one could be considered A07: 2021-Identification and Authentication Failures.
+Weakening: As far as [OWASP](https://owasp.org/www-project-top-ten/) is concerned, we could group it into several groups, but the main one could be considered A07: 2021-Identification and Authentication Failures.
 *Attack:* a vocabulary attack can be carried out using a tool like hydra; if there is no vocabulary, a brutal attack can be directed.
 *Defense:* The possibility of authentication by user/password must be disabled, after which users must be authenticated by asymmetric cryptography using a key.
 
