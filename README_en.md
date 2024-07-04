@@ -27,11 +27,11 @@
    - 3.3.3 Practical workshop for the segmentation of industrial networks
    - 3.3.4 Secure Web Development
 3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
-   - 3.4 [Centre projects:] (# 34-centre projects)
+   - 3.4 [Centre projects:](#34-centre-projects)
    - 3.4.1 Cyber car
    - 3.4.2 OT Challenges
-4. [Relations and Communication:] (# 4contact and communication)
-   - 4.1 [Entrepreneurship Days:] (# 41-entrepreneurship)
+4. [Relations and Communication:](#4contact-and-communication)
+   - 4.1 [Entrepreneurship Days:](#41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Presentation:<img align="center" src="img/lerroa.png">
 The contents discussed in the Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
@@ -47,7 +47,6 @@ The participants in this course have been:
 ## 2.2024 Figures:<img align="center" src="img/lerroa.png">
 <img align="left" src="img/ZIFRAK.png">  
 This year we've had 100 students on our Cyber Range. In the survey that we pass them after participating in the session, they say that all students recommend the experience.
-
 
 ## 3.Lines of work:<img align="center" src="img/lerroa.png">
 ### 3.1 Projects:
