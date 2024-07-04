@@ -76,9 +76,9 @@ Hemen txapelketaren laburpen bideoa.
 
 FAUST Taldearen erabilitako bi proiektuak hauek dira: [CTF Gameserver](https://github.com/fausecteam/ctf-gameserver) (garapenaren oinarria) eta [CTF Gameserver Ansible deployment](https://github.com/fausecteam/ctf-gameserver-ansible) (Ansible bidez plataforma horren hedapena egiteko IaC kodea)
 
-Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den /DEF CTF plataforma izan da emaitza.
+Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den ER/DEF CTF plataforma izan da emaitza. Bi repositoriotan jaso dugu lan hau: [ctf-gameserver-terrraform](https://github.com/Tknika/ctf-gameserver-terraform), muntaia nagusia jasotzen duena; eta [ctf-gameserver-mqtt](https://github.com/Tknika/ctf-gameserver-mqtt), mqtt brokerraren osagaia gehitzen diona.
 
-<img align="center" src="img/gameserver-proxmox.png">
+<p align="center"><img src="img/gameserver-proxmox.png"></p>
 
 #### 3.1.2 Er/Def CTFrako ariketak (Zerbitzuak):
 
