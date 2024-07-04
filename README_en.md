@@ -45,7 +45,7 @@ The participants in this course have been:
    - Ibai Peña
 
 ## 2.2024 Figures:<img align="center" src="img/lerroa.png">
-<img align="left" src="img/ZIFRAK.png">  
+<img align="left" src="img/figures23-24.png">  
 This year we've had 100 students on our Cyber Range. In the survey that we pass them after participating in the session, they say that all students recommend the experience.
 
 ## 3.Lines of work:<img align="center" src="img/lerroa.png">
