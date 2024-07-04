@@ -30,7 +30,7 @@
    - 3.4 [Centre projects:](#34-centre-projects)
       - 3.4.1 Cyber car
       - 3.4.2 OT Challenges
-4. [Relations and Communication:](#4contact-and-communication)
+4. [Relations and Communication:](#4relations-and-communication)
    - 4.1 [Entrepreneurship Days:](#41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Presentation:<img align="center" src="img/lerroa.png">
