@@ -3,7 +3,7 @@
 # Cybersecurity 2023-2024
 **Memory of the 2023 – 2024 course of the Tknika Cybersecurity Team**
 
-## Aurkibidea<img align="center" src="img/lerroa.png">
+## Index<img align="center" src="img/lerroa.png">
 
 1. [Introduction:](#1presentation)
    - 1.1 [Team:](#11-team)
@@ -11,9 +11,9 @@
 3. [Lines of work:](#3lines-of-work)
       - 3.1 [Projects:](#31projects)
       - 3.1.0 Cyber-Competition
-      - 3.1.1 Erd/Def CTF infrastructure:
-      - 3.1.2 Erd/Def CTF exercises (Services):
-      - 3.1.3 Erd/Def CTF visualization systems:
+      - 3.1.1 Atk/Def CTF infrastructure:
+      - 3.1.2 Atk/Def CTF exercises (Services):
+      - 3.1.3 Atk/Def CTF visualization systems:
          - 3.1.3.1 Scoreboard
          - 3.1.3.2 Lighting
 - 3.2 [Pilots:](#32-pilots)
