@@ -5,33 +5,33 @@
 
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
-1. [Aurkezpena:](#1aurkezpena)
-   - 1.1 [Lan Taldea:](#11-lan-taldea)
-2. [2024ko zifrak:](#22024ko-zifrak)
-3. [Lan ildoak:](#3lan-ildoak)
-   - 3.1 [Proiektuak:](#31-proiektuak)
-      - 3.1.0 Cyber-Lehia
-      - 3.1.1 Erd/Def CTF azpiegitura:
-      - 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
-      - 3.1.3 Erd/Def CTFrako bistaratze sistemak:
-         - 3.1.3.1 Markagailua
-         - 3.1.3.2 Argiztapena
-   - 3.2 [Pilotuak:](#32-pilotuak)
-      - 3.2.1 Phishing
-      - 3.2.2 Vishing
-      - 3.2.3 Hack the box
-      - 3.2.4 Pentesting 
-   - 3.3 [Ikastaroak:](#33-ikastaroak)
-      - 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
-      - 3.3.2 Komunikazio industrial ez seguruei erasotzeko tailer praktikoa
-      - 3.3.3 Sare industrialen segmentazio tailer praktikoa
-      - 3.3.4 Web Garapen Segurua
-      - 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
-   - 3.4 [Zentruetako proiektuak:](#34-zentruetako-proiektuak)
-      - 3.4.1 Cyber car
-      - 3.4.2 OT Erronkak
-4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
-   - 4.1 [Ekintzailetza Jardunaldiak:](#41-ekintzailetza)
+1. [Introduction:] (# 1 presentation)
+   - 1.1 [Working Group:] (# 11-team)
+2. [2024 figures:] (# 22024 figures)
+3. [Lines of work:] (# 3 lines of work)
+      - 3.1 [Projects:] (# 31 projects)
+      - 3.1.0 Cyber-Competition
+      - 3.1.1 Erd/Def CTF infrastructure:
+      - 3.1.2 Erd/Def CTF exercises (Services):
+      - 3.1.3 Erd/Def CTF visualization systems:
+         - 3.1.3.1 Marker
+         - 3.1.3.2 Lighting
+- 3.2 [Pilots:] (# 32-pilots)
+   - 3.2.1 Phishing
+   - 3.2.2 Vishing
+   - 3.2.3 Hack the box
+   - 3.2.4 Pentesting
+- 3.3 [Courses:] (# 33 courses)
+   - 3.3.1 Awareness bells: Phishing-Vishing
+   - 3.3.2 Practical workshop to attack unsafe industrial communications
+   - 3.3.3 Practical workshop for the segmentation of industrial networks
+   - 3.3.4 Secure Web Development
+3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
+   - 3.4 [Centre projects:] (# 34-centre projects)
+   - 3.4.1 Cyber car
+   - 3.4.2 OT Challenges
+4. [Relations and Communication:] (# 4contact and communication)
+   - 4.1 [Entrepreneurship Days:] (# 41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2023-24 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
