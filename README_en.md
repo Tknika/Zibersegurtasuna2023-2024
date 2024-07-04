@@ -5,7 +5,7 @@
 
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
-1. [Introduction:] (# 1 presentation)
+1. [Introduction:](#1presentation)
    - 1.1 [Working Group:] (# 11-team)
 2. [2024 figures:] (# 22024 figures)
 3. [Lines of work:] (# 3 lines of work)
@@ -33,9 +33,9 @@
 4. [Relations and Communication:] (# 4contact and communication)
    - 4.1 [Entrepreneurship Days:] (# 41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
+## 1.Presentation:<img align="center" src="img/lerroa.png">
 The contents discussed in the Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
-### 1.1 Lan Taldea:
+### 1.1 Working group:
 The participants in this course have been:
 
    - Garikoitz Etxeberria 
