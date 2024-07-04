@@ -34,9 +34,9 @@
    - 4.1 [Entrepreneurship Days:] (# 41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
-2023-24 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
+The contents discussed in the Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
 ### 1.1 Lan Taldea:
-Kurtso honetan lan taldea osatu duten partaideak izan dira:
+The participants in this course have been:
 
    - Garikoitz Etxeberria 
    - Paulino Insausti
@@ -44,21 +44,21 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
    - Xabat Zabala
    - Ibai Peña
 
-## 2.2024ko zifrak:<img align="center" src="img/lerroa.png">
+## 2.Figures for 2024:<img align="center" src="img/lerroa.png">
 <img align="left" src="img/ZIFRAK.png">  
-Aurten 100. ikaslea izan dugu geure CyberRange-an. Saioan partehartu ondoren pasatzen diegun inkestan diotenez, ikasle guzti guztiek gomendatzen dute esperientzia. 
+This year we've had 100 students on our Cyber Range. In the survey that we pass them after participating in the session, they say that all students recommend the experience.
 
 
-## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
-### 3.1 Proiektuak:
-#### 3.1.0 Erd/Def CTF-a:
-  - ##### Kokapena
+## 3.Lines of work:<img align="center" src="img/lerroa.png">
+### 3.1 Projects:
+#### 3.1.0 Atk/Def CTF:
+  - ##### Context
 
-Aurreko ikasturtean CyberRangea kontsolidatu ondoren, erasorako edo ikerketarako gaitasunez gain, defentsarako eta hutsuneak zuzentzeko gaitasunak ere eskatzen dituen CTF plataforma bat martxan jartzeari ekin diogu ikasturte honetan. CyberRangea orain arte Jeopardy motako CTF-a izan da, eta aurten eraso/defentsa motakoa menperatu eta erabiltzeko gaitasuna lortzea zen helburua.
+After the consolidation of the CyberRange last year, this course has begun the launch of a CTF platform that requires, in addition to offensive or investigative capabilities, defensive and gap correction capabilities. The CyberRange has hitherto been the Jeopardy CTF, and this year the aim was to gain the ability to handle and use the attack/defense type.
 
-Mota honetako plataformak dagoeneko existitzen direnez, lehenik State-of-the-art nolakoa zen begiratu dugu. Garatutako opensource aukera anitz zeudela ikustean, horietan oinarritzea egoki ikusi dugu, zehazki Friedrich-Alexander University Erlangen-Nürnberg (FAU) unibertsitateko segurtasun taldearen (FAUST) bi garapenetan. Bi garapen hauek urtero erabiliak dira Unibertsitateak burutzen duen ER/DEF nazioarteko proban.
+As platforms of this kind already exist, we first looked at what State-of-the-art was like. In view of the wide variety of opensource options developed, we found it appropriate to rely on them, namely the two developments of the Friedrich-Alexander University Erlangen-Nürnberg University Security Team (FAU). These two developments are used annually in the University's international ER/DEF test.
 
-Garapen hauei eraldaketa eta gehikuntzak egin dizkiogu guk behar genuenera hurbiltzeko. Gure garapenaren lehen bertsioa honela errepresentatu daiteke:
+We have made modifications and additions to these developments to bring them closer to what we needed. The first version of our development can be represented as follows:
 
 <img align="center" src="img/eskema-sinplea.png">
 
