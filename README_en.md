@@ -6,7 +6,7 @@
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
 1. [Introduction:](#1presentation)
-   - 1.1 [Working Group:](#11-team)
+   - 1.1 [Team:](#11-team)
 2. [2024 figures:](#22024-figures)
 3. [Lines of work:](#3lines-of-work)
       - 3.1 [Projects:](#31projects)
@@ -45,7 +45,7 @@ The participants in this course have been:
    - Ibai Peña
 
 ## 2.2024 Figures:<img align="center" src="img/lerroa.png">
-<img align="left" src="img/figures23-24.png">  
+<img align="left" src="img/figures23-24.jpg">  
 This year we've had 100 students on our Cyber Range. In the survey that we pass them after participating in the session, they say that all students recommend the experience.
 
 ## 3.Lines of work:<img align="center" src="img/lerroa.png">
