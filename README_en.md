@@ -6,22 +6,22 @@
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
 1. [Introduction:](#1presentation)
-   - 1.1 [Working Group:] (# 11-team)
-2. [2024 figures:] (# 22024 figures)
-3. [Lines of work:] (# 3 lines of work)
-      - 3.1 [Projects:] (# 31 projects)
+   - 1.1 [Working Group:](#11-team)
+2. [2024 figures:](#22024-figures)
+3. [Lines of work:](#3lines-of-work)
+      - 3.1 [Projects:](#31projects)
       - 3.1.0 Cyber-Competition
       - 3.1.1 Erd/Def CTF infrastructure:
       - 3.1.2 Erd/Def CTF exercises (Services):
       - 3.1.3 Erd/Def CTF visualization systems:
-         - 3.1.3.1 Marker
+         - 3.1.3.1 Scoreboard
          - 3.1.3.2 Lighting
-- 3.2 [Pilots:] (# 32-pilots)
+- 3.2 [Pilots:](#32-pilots)
    - 3.2.1 Phishing
    - 3.2.2 Vishing
    - 3.2.3 Hack the box
    - 3.2.4 Pentesting
-- 3.3 [Courses:] (# 33 courses)
+- 3.3 [Courses:](#33courses)
    - 3.3.1 Awareness bells: Phishing-Vishing
    - 3.3.2 Practical workshop to attack unsafe industrial communications
    - 3.3.3 Practical workshop for the segmentation of industrial networks
@@ -35,7 +35,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Presentation:<img align="center" src="img/lerroa.png">
 The contents discussed in the Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
-### 1.1 Working group:
+### 1.1 Team:
 The participants in this course have been:
 
    - Garikoitz Etxeberria 
@@ -44,7 +44,7 @@ The participants in this course have been:
    - Xabat Zabala
    - Ibai Peña
 
-## 2.Figures for 2024:<img align="center" src="img/lerroa.png">
+## 2.2024 Figures:<img align="center" src="img/lerroa.png">
 <img align="left" src="img/ZIFRAK.png">  
 This year we've had 100 students on our Cyber Range. In the survey that we pass them after participating in the session, they say that all students recommend the experience.
 
@@ -98,7 +98,7 @@ The purpose of the visualization systems is to read the facts that have reached 
    
    <p align="center"><img src="img/CyberLehia Bistaratzea.png" width=50% height=50%></p>
 
-##### 3.1.3.2 Ilumination
+##### 3.1.3.2 Lightning
 
    In order to increase visibility, a system of LED lights has been put in place, with 2 lights for each group. The lights will behave differently in the face of different CTF situations. At the beginning and end of the session, all the lights will make a color pattern. When there is an attack, the lights of the attacking group will be green, while those of the attacking group will be red.
    
@@ -113,32 +113,32 @@ Click on the following **document** of the steps taken:
 
 <p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
 
-Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen **bideo** laburra:
+Short **video** of the pilot's execution in Tknika:
 
 <p align="center"><a href="https://youtu.be/WRu7IkI5Jq4"> <img align="center" src="img/bideo_shot.jpg" width=50% height=50%> </a></p>
 
 #### 3.2.2 Vishing:
- - ##### Kokapena
-Iaz eta aurten phishing pilotuen lanketan ibili ondoren, **VISHING** kanpaña bat burutu da Tknikako instalazioetan eraso mota hauek izan dezaketen inpaktua lankideen artean jorratzeko. Dei telefoniko bidez eginiko kontzientziazio kanpaña bat izan da, eta beronen bueltan erabili diren teknikak eta tresnak gertuagotik ezagutzeko lagundu digu.
-Kanpaña hau, <a href="https://www.bedisruptive.com/"> BeDisruptive </a> enpresari eskatu zaio eta jarraian duzuen dokumentuan aurkituko dituzue kanpaña honen inguruko xehetasunak:
+ - ##### Context
+After working on phishing pilots last year and this year, a* VISHING** bell has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness bell made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
+This campaign, has been requested <a href="https://www.bedisruptive.com/"> BeDisruptive </a> company and in the following document you will find the details of this bell:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
 #### 3.2.3 Hack the box:
 <p align="center"><img src="img/htb.png"></p>
 
- - ##### Kokapena
-**Hack The Box** plataforma, Lanbide Heziketako Zibersegurtasun espezialitatean erabiltzearen ikuspegitik, **Txurdinagako LH** ikastetxean ikasturte osoan frogatu den tresna bat izan da. HTB-ek eskeintzen dituen laborategi desberdinak frogatu eta ikasleekin lan egiteko orduan ematen dituen abantailak testeatu dira. Horrez gain, ikasturte honetan <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehian**</a>, etab ere erabili da eta bertatik jasotako esperientzia eta ateratako ondorioak partekatu, hausnartu eta beste aukera posibleei buruz lanketa egin asmoz, jardunaldi bat antolatzea izan da helburua. Jardunaldi honetan, ondorioak partekatzeaz gain, HTB-ko erronka bat elkarlanean landu da.
+ - ##### Context
+** The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the FP** Txurdinaga. The different laboratories offered by HTB have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus/es/">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an HTB challenge.
 
-#### 3.2.4 Pentesting Pilotua Iurreta LHI:
+#### 3.2.4 Pentesting Pilot Iurreta LHI:
 <p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
 
- - ##### Kokapena
-Tknikako zibersegurtasun alorretik Pentesting-eko pilotu bat jarri da martxan bigarren urtez jarraian. Pilotu honetan, zibersegurtasunaren espezializazioa egin duen ikasle batek, sektoreko enpresa baten laguntzarekin (JakinCode), zentro baten (Iurreta LHI) segurtasun auditoretza egiten du.   
+ - ##### Context
+From the cybersecurity area of Tknika, a Pentest pilot has been launched for the second year in a row. In this pilot, a student specializing in cybersecurity, with the help of a sector company (JakinCode), conducts a security audit of a center (Iurreta LHI).
 
-Iurreta LHI zentroan eginiko lana partekatu asmoz, Webinar bat egin da Ekainean. Webinarraren helburua lortutako emaitzak aurkeztea eta esperientzia prozesuan interesa dutenekin partekatzea izan da.
+In order to share the work done at the CEP Iurreta, a Webinar was held in June. Webinar's goal has been to present the results obtained and share the experience with those interested in the process.
 
-### 3.3 Ikastaroak:
+### 3.3 Courses:
 #### 3.3.1 Kontzientziazio kanpañak: Phishing-Vishing
 <p align="center"><img width="35%" height="35%" src="img/phishing.jpg"></p>
 
