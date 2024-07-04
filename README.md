@@ -76,7 +76,7 @@ Hemen txapelketaren laburpen bideoa.
 
 FAUST Taldearen erabilitako bi proiektuak hauek dira: [CTF Gameserver](https://github.com/fausecteam/ctf-gameserver) (garapenaren oinarria) eta [CTF Gameserver Ansible deployment](https://github.com/fausecteam/ctf-gameserver-ansible) (Ansible bidez plataforma horren hedapena egiteko IaC kodea)
 
-Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den ER/DEF CTF plataforma izan da emaitza. Bi repositoriotan jaso dugu lan hau: [ctf-gameserver-terrraform](https://github.com/Tknika/ctf-gameserver-terraform), muntaia nagusia jasotzen duena; eta [ctf-gameserver-mqtt](https://github.com/Tknika/ctf-gameserver-mqtt), mqtt brokerraren osagaia gehitzen diona.
+On the basis of this work, important adaptations have been needed to implement the model we needed, including the addition of the entire substructure of the groups on the platform itself. The result has been the ER/DEF CTF platform that spreads through Terraform on Proxmox (also under way version of AWS). In two repositories we have received this work: [ctf-gameserver-terraform](https://github.com/Tknika/ctf-gameserver-terraform) , which contains the main assembly; and [ctf-gameserver-mqtt](https://github.com/Tknika/ctf-gameserver-mqtt), which adds the component of the mqtt broker.
 
 <p align="center"><img src="img/gameserver-proxmox.png"></p>
 
