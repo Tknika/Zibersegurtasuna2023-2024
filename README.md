@@ -1,5 +1,5 @@
 <img align="center" src="img/kabezera2024.jpg">
-<p align="right"> <a href="[docs/Cyber Security For Small Business.pdf](https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md)" class="image fit"><img src="img/header2024.jpg" alt="" width="30%" height="15%"></a></p>
+<p align="right"> <a href="https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md" class="image fit"><img src="img/header2024.jpg" alt="" width="30%" height="15%"></a></p>
 
 # Zibersegurtasuna 2023-2024
 **Tknikako Zibersegurtasun lan taldearen 2023 - 2024 kurtsoko memoria** (go to [ENGLISH Version](https://github.com/Tknika/Zibersegurtasuna2023-2024/blob/main/README_en.md). Aurreko ikasturteko memoria ikusi nahi izanez gero (2022-2023) [hemen](https://github.com/Tknika/Zibersegurtasuna2022-2023) aurkitu dezakezu.
