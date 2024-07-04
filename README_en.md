@@ -107,7 +107,7 @@ The purpose of the visualization systems is to read the facts that have reached 
 #### 3.2.1 Phishing:
  - ##### Context
 
-In order to work on the Phishing awareness bells, after testing the Smartphense tool last year, a FOSS pilot **Gophish** has been worked on this year. It can be downloaded from Github, from this <a href="https://github.com/gophish/gophish/releases"> link </a>. In the first phase of the awareness bell, the first work has been done at the Tknika facility. To local employees' emails, different emails have been sent from a fake sender with a link to a fake website. After a positive assessment of the work done at Tknika, it was decided to extend this pilot to vocational training centres. After a proposal to different schools, the second phase of the bell was finally discussed at the **Zubiri Manteo IES, Uni Eibar, Izarraitz LH** eta **Iurretako LHI** to local teachers' emails, where different messages were sent.
+In order to work on the Phishing awareness campaigns, after testing the Smartphense tool last year, a FOSS pilot **Gophish** has been worked on this year. It can be downloaded from Github, from this <a href="https://github.com/gophish/gophish/releases"> link </a>. In the first phase of the awareness campaigns, the first work has been done at the Tknika facility. To local employees' emails, different emails have been sent from a fake sender with a link to a fake website. After a positive assessment of the work done at Tknika, it was decided to extend this pilot to vocational training centres. After a proposal to different schools, the second phase of the campaigns was finally discussed at the **Zubiri Manteo BHI, Uni Eibar-Ermua, Izarraitz LH** eta **Iurretako LHI** to local teachers' emails, where different messages were sent.
 Click on the following **document** of the steps taken:  
 
 <p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
@@ -118,8 +118,8 @@ Short **video** of the pilot's execution in Tknika:
 
 #### 3.2.2 Vishing:
  - ##### Context
-After working on phishing pilots last year and this year, a **VISHING** bell has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness bell made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
-This campaign, has been requested <a href="https://www.bedisruptive.com/"> BeDisruptive </a> company and in the following document you will find the details of this bell:
+After working on phishing pilots last year and this year, a **VISHING** campaign has been made to address the potential impact of this type of attack on the Tknika facility among colleagues. It was an awareness campaign made by telephone calls that helped us get to know more closely the techniques and tools that have been used around it.
+This campaign, has campaigns requested <a href="https://www.bedisruptive.com/"> BeDisruptive </a> company and in the following document you will find the details of this campaign:
 
 <p align="center"> <a href="docs/TKNIKA_VISHING_github.pdf" class="image fit"><img src="img/Tknika_vishing.jpg" alt="" width="50%" height="50%"></a></p>
 
