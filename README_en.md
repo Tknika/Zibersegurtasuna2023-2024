@@ -62,54 +62,55 @@ We have made modifications and additions to these developments to bring them clo
 
 <img align="center" src="img/eskema-sinplea.png">
 
-Azpiegitura hau <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a>-n erabili da, Euskadiko Lanbide Heziketarako lehen zibersegurtasun txapelketan, finaleko jardunaldian, txapelketako talde irabazlea erabakitzeko.
+This infrastructure has been used in <a href="https://cyberlehia.fpeuskadi.eus/"> Cyberlehia 2024</a> the first cybersecurity competition for Vocational Training in the Basque Country, on the day of the final, to decide the winning team of the tournament.
 
-Hemen txapelketaren laburpen bideoa.
+Here's the summary video of the tournament.
 
 <p align="center"><a href="https://www.youtube.com/watch?v=2AtvKaG9ahY"> <img align="center" src="img/Screenshot_CyberLehia.png" width=50% height=50%> </a></p>
 
-#### 3.1.1 Erd/Def CTF azpiegitura:
-  - ##### Kokapena
+#### 3.1.1 Atk/Def CTF infrastructure:
+  - ##### Context
 
-FAUST Taldearen erabilitako bi proiektuak hauek dira:
+The two projects used by the FAUST Group are:
 
-      - Gameserverra: https://github.com/fausecteam/ctf-gameserver
-      - Ansible bidezko instalazioa: https://github.com/fausecteam/ctf-gameserver-ansible
+      - Gameserver: https://github.com/fausecteam/ctf-gameserver
+      - Installation process using Ansible: https://github.com/fausecteam/ctf-gameserver-ansible
 
-Lan horietatik abiatuta, moldaketa garrantzitsuak egin behar izan dira, guk behar genuen eredua gauzatzeko, taldeen azpigitura osoa plataforman bertan gehitzea besteak beste. Terraform bidez Proxmoxen (AWS bertsio ere bidean) hedatzen den ERD/DEF CTF plataforma izan da emaitza.
+On the basis of this work, important adaptations have been needed to implement the model we needed, including the addition of the entire substructure of the groups on the platform itself. The result has been the ERD/DEF CTF platform that spreads through Terraform on Proxmox (also under way version of AWS).
 
 <img align="center" src="img/gameserver-proxmox.png">
 
-#### 3.1.2 Erd/Def CTFrako ariketak (Zerbitzuak):
+#### 3.1.2 Atk/Def CTF exercises (Services):
 
-Behin azpiegitura erabilgarri genuela, lehen proba batzuk sortu genituen hau probatzeko eta gero azpiegitura CyberLehiako finalean erabiliko genuela erabaki zenean hasierako horiei gehitutakoekin 6 ariketa edo zerbitzu sortu genituen; hona hemen zerbitzu horietako baten azalpentxoa, adibide modura: 
-   Zertan datza? ssh zerbitzu bat dugu martxan. Baimenduta dauka erabiltzaile/pasahitza bitartez kautotzea; gainera, erabiltzaile baten pasahitzak ez die gomendio minimoei eusten. 
-   Ahuleziaren saikapena: OWASP-i dagokionez, hainbat taldetan multzokatu genezake, baina nagusia A07:2021-Identification and Authentication Failures kontsideratu liteke. 
-   Erasoa: hiztegi-eraso bat gauzatu daiteke hydra bezalako tresna bat erabilita; hiztegirik izan ezean, eraso gordina bideratu daiteke. 
-   Defentsa: desgaitu egin behar da erabiltzaile/pasahitza bitartez kautotzeko aukera; hori egin ostean, erabiltzaileak kriptografia asimetrikoaren bidez kautotu beharko dira, giltz bat erabilita.
+Once we had the infrastructure available, we created the first tests to test it, and when it was decided that we would then use the infrastructure in the Cyber Competition finals, we created six exercises or services with those originally added to them; here's a little explanation of one of those services, by way of example:
+We have a ssh service in place. It is allowed to authenticate by user/password; moreover, a user's password does not maintain minimum recommendations.
+Weakening: As far as OWASPE is concerned, we could group it into several groups, but the main one could be considered A07: 2021-Identification and Authentication Failures.
+Attack: a vocabulary attack can be carried out using a tool like hydra; if there is no vocabulary, a brutal attack can be directed.
+Defense: The possibility of authentication by user/password must be disabled, after which users must be authenticated by asymmetric cryptography using a key.
 
-#### 3.1.3 Erd/Def CTFrako bistaratze sistemak:
+#### 3.1.3 Atk/Def CTF visualization systems.:
 
-MQTT brokerrera iritsitako gertaerak irakurri eta hauen bitartez gertatzen ari dena modu erakargarri batean erakustea da bistaratze sistemen helburua. Modu honetako 2 garapen burutu dira:
+The purpose of the visualization systems is to read the facts that have reached the MQTT broker and to show what is happening through them in an attractive way. Two such developments have been carried out:
 
-##### 3.1.3.1 Markagailua
+##### 3.1.3.1 Scoreboard
 
-   GameServerrak badu markagailu bat, baina informazio gehiegi ematen du modu konplexu batean. Garapen berri honen bitartez, automatikoki eguneratzen den markagailu sinple eta erakargarria lortu nahi izan da, eraso ezberdinei buruzko momentuko informazioa ere ematen duena.
+   GameServer has a scoreboard, but it provides too much information in a complex way. This new development has sought to obtain a simple and attractive scoreboard that is automatically updated and also provides timely information on the various attacks.
    
    <p align="center"><img src="img/CyberLehia Bistaratzea.png" width=50% height=50%></p>
 
-##### 3.1.3.2 Argiztapena
+##### 3.1.3.2 Ilumination
 
-   Ikusgarritasuna handitu asmoz, led argiz osatutako sistema bat jarri da martxan, talde bakoitzarentzat 2 argi dituelarik. CTF-an gertaturiko egoera ezberdinen aurrean modu ezberdinean jokatuko dute argiek. Saioa hastean eta amaitzean, argi guztiek kolorezko patroi bat egingo dute. Eraso bat dagoenean, talde erasotzailearen argiek kolore berdea hartuko dute, talde erasotuarenek aldiz, gorria. 
+   In order to increase visibility, a system of LED lights has been put in place, with 2 lights for each group. The lights will behave differently in the face of different CTF situations. At the beginning and end of the session, all the lights will make a color pattern. When there is an attack, the lights of the attacking group will be green, while those of the attacking group will be red.
    
    <p align="center"><img align="center" src="img/CyberLehia Argiztapena.jpg" width=50% height=50%></p>
 
-### 3.2 Pilotuak:
+### 3.2 Pilots:
 #### 3.2.1 Phishing:
- - ##### Kokapena
+ - ##### Context
 
-Phishingaren inguruko kontzientziazio kanpañak landu asmoz, iaz Smartphense tresna testeatu ondoren, aurtengo ikasturtean **Gophish** software librearen pilotu bat jorratu da. Github-etik deskargatu daiteke, <a href="https://github.com/gophish/gophish/releases"> esteka </a> honetatik. Kontzientziazio kanpañaren lehendabiziko fasean, Tknikako instalazioetan egin da lehen lanketa. Bertako langileen epostetara, email desberdinak bidali dira igorle faltsu batetatik, webgune faltsu batetarako estekarekin. Tknikan eginiko lanketaren balorazio positiboa egin ostean, pilotu hau Lanbide Heziketako ikastetxeetara zabaltzea erabaki zen. Ikastetxe desberdinei proposamena egin ondoren, azkenean **Zubiri Manteo IES, Uni Eibar, Izarraitz LH** eta **Iurretako LHI** ikastetxeetan jorratu zen kanpañaren bigarren fasea. Bertako irakasleen emailetara, mezu desberdinak bidali zirelarik. 
-Jarraitutako urratsen **GIDA** beheko dokumentuan klikatuta ikusiko duzue:
+In order to work on the Phishing awareness bells, after testing the Smartphense tool last year, a FOSS pilot **Gophish** has been worked on this year. It can be downloaded from Github, from this <a href="https://github.com/gophish/gophish/releases"> link </a>. In the first phase of the awareness bell, the first work has been done at the Tknika facility. To local employees' emails, different emails have been sent from a fake sender with a link to a fake website. After a positive assessment of the work done at Tknika, it was decided to extend this pilot to vocational training centres. After a proposal to different schools, the second phase of the bell was finally discussed at the **Zubiri Manteo IES, Uni Eibar, Izarraitz LH** eta **Iurretako LHI** to local teachers' emails, where different messages were sent.
+Click on the following **document** of the steps taken:  
+
 <p align="center"> <a href="docs/Gophish_gida.pdf" class="image fit"><img src="img/GOPHISH_GIDAimg.jpg" alt="" width="25%" height="25%"></a></p>
 
 Tknikan jorraturiko pilotuaren exekuzioa azaltzen duen **bideo** laburra:
