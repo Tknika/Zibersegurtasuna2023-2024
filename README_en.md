@@ -31,7 +31,7 @@
       - 3.4.1 Cyber car
       - 3.4.2 OT Challenges
 4. [Relations and Communication:](#4relations-and-communication)
-   - 4.1 [Entrepreneurship Days:](#41-entrepreneurship)
+   - 4.1 [Entrepreneurship Days:](#41entrepreneurship-days)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Presentation:<img align="center" src="img/lerroa.png">
 The contents discussed in the **Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
@@ -178,7 +178,7 @@ You can download the document that works on questions/answers <a href="docs/Norm
 #### 3.4.1 Cyber car
 #### 3.4.2 OT Challenges
 ## 4.Relations and Communication:
-#### 4.1 Ikasenpresa / Entrepreneurship Days:
+### 4.1Entrepreneurship Days:
 
 We've been giving lectures at three school events to young entrepreneurs to advise them on cybersecurity that they could use in their companies. Here's the introduction used.
 
