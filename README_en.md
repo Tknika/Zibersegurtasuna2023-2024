@@ -9,27 +9,27 @@
    - 1.1 [Team:](#11-team)
 2. [2024 figures:](#22024-figures)
 3. [Lines of work:](#3lines-of-work)
-      - 3.1 [Projects:](#31projects)
+   - 3.1 [Projects:](#31projects)
       - 3.1.0 Cyber-Competition
       - 3.1.1 Atk/Def CTF infrastructure:
       - 3.1.2 Atk/Def CTF exercises (Services):
       - 3.1.3 Atk/Def CTF visualization systems:
          - 3.1.3.1 Scoreboard
          - 3.1.3.2 Lighting
-- 3.2 [Pilots:](#32-pilots)
-   - 3.2.1 Phishing
-   - 3.2.2 Vishing
-   - 3.2.3 Hack the box
-   - 3.2.4 Pentesting
-- 3.3 [Courses:](#33courses)
-   - 3.3.1 Awareness campaigns: Phishing-Vishing
-   - 3.3.2 Practical workshop to attack unsafe industrial communications
-   - 3.3.3 Practical workshop for the segmentation of industrial networks
-   - 3.3.4 Secure Web Development
-   -3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
-- 3.4 [Centre projects:](#34-centre-projects)
-   - 3.4.1 Cyber car
-   - 3.4.2 OT Challenges
+   - 3.2 [Pilots:](#32-pilots)
+      - 3.2.1 Phishing
+      - 3.2.2 Vishing
+      - 3.2.3 Hack the box
+      - 3.2.4 Pentesting
+   - 3.3 [Courses:](#33courses)
+      - 3.3.1 Awareness campaigns: Phishing-Vishing
+      - 3.3.2 Practical workshop to attack unsafe industrial communications
+      - 3.3.3 Practical workshop for the segmentation of industrial networks
+      - 3.3.4 Secure Web Development
+      -3.3.5 "Cybersecurity regulations from the teacher's point of view." Webinar (Ruth Sala)
+   - 3.4 [Centre projects:](#34-centre-projects)
+      - 3.4.1 Cyber car
+      - 3.4.2 OT Challenges
 4. [Relations and Communication:](#4contact-and-communication)
    - 4.1 [Entrepreneurship Days:](#41-entrepreneurship)
 ---------------------------------------------------------------------------------------------------------------------------------------------
