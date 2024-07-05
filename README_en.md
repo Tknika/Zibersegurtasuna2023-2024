@@ -10,13 +10,13 @@
 2. [2024 figures:](#22024-figures)
 3. [Lines of work:](#3lines-of-work)
    - 3.1 [Projects:](#31-projects)
-      - [3.1.0 Atk/Def CTF:](#310-atkdef-ctf)
-      - 3.1.1 Atk/Def CTF infrastructure:
-      - 3.1.2 Atk/Def CTF exercises (Services):
-      - 3.1.3 Atk/Def CTF visualization systems:
-         - 3.1.3.1 Scoreboard
-         - 3.1.3.2 Lighting
-   - 3.2 [Pilots:](#32-pilots)
+      - 3.1.0 [Atk/Def CTF:](#310-atkdef-ctf)
+      - 3.1.1 [Atk/Def CTF infrastructure:](#311-atkdef-ctf-infraestructure)
+      - 3.1.2 [Atk/Def CTF exercises (Services):](#312-atkdef-ctf-exercises-services)
+      - 3.1.3 [Atk/Def CTF visualization systems:](#313-atkdef-ctf-visualization-systems)
+         - 3.1.3.1 [Scoreboard](#3131-scoreboard)
+         - 3.1.3.2 [Lighting](#3132-lighting)
+   - 3.2 [Prove of Concepts:](#32-prove-of-concepts)
       - 3.2.1 Phishing
       - 3.2.2 Vishing
       - 3.2.3 Hack the box
@@ -103,7 +103,7 @@ The purpose of the visualization systems is to read the facts that have reached 
    
    <p align="center"><img align="center" src="img/CyberLehia Argiztapena.jpg" width=50% height=50%></p>
 
-### 3.2 Pilots:
+### 3.2 Prove of Concepts:
 #### 3.2.1 Phishing:
  - ##### Context
 
