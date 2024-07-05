@@ -11,7 +11,7 @@
 3. [Lines of work:](#3lines-of-work)
    - 3.1 [Projects:](#31-projects)
       - 3.1.0 [Atk/Def CTF:](#310-atkdef-ctf)
-      - 3.1.1 [Atk/Def CTF infrastructure:](#311-atkdef-ctf-infraestructure)
+      - 3.1.1 [Atk/Def CTF infrastructure:](#311-atkdef-ctf-infrastructure)
       - 3.1.2 [Atk/Def CTF exercises (Services):](#312-atkdef-ctf-exercises-services)
       - 3.1.3 [Atk/Def CTF visualization systems:](#313-atkdef-ctf-visualization-systems)
          - 3.1.3.1 [Scoreboard](#3131-scoreboard)
@@ -97,7 +97,7 @@ The purpose of the visualization systems is to read the facts that have reached 
    
    <p align="center"><img src="img/CyberLehia Bistaratzea.png" width=50% height=50%></p>
 
-##### 3.1.3.2 Lightning
+##### 3.1.3.2 Lighting
 
    In order to increase visibility, a system of LED lights has been put in place, with 2 lights for each group. The lights will behave differently in the face of different CTF situations. At the beginning and end of the session, all the lights will make a color pattern. When there is an attack, the lights of the attacking group will be green, while those of the attacking group will be red.
    
