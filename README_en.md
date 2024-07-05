@@ -5,12 +5,12 @@
 
 ## Index<img align="center" src="img/lerroa.png">
 
-1. [Introduction:](#1presentation)
+1. [Introduction:](#1-introduction)
    - 1.1 [Team:](#11-team)
 2. [2024 figures:](#22024-figures)
 3. [Lines of work:](#3lines-of-work)
    - 3.1 [Projects:](#31-projects)
-      - 3.1.0 Cyber-Competition
+      - [3.1.0 Atk/Def CTF:](#310-atk/def-ctf)
       - 3.1.1 Atk/Def CTF infrastructure:
       - 3.1.2 Atk/Def CTF exercises (Services):
       - 3.1.3 Atk/Def CTF visualization systems:
@@ -33,7 +33,7 @@
 4. [Relations and Communication:](#4relations-and-communication)
    - 4.1 [Entrepreneurship Days:](#41entrepreneurship-days)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-## 1.Presentation:<img align="center" src="img/lerroa.png">
+## 1. Introduction:<img align="center" src="img/lerroa.png">
 The contents discussed in the **Cybersecurity Working Group** Tknika during the course 2023-24 are shown below. In addition to listing the contents, there are links to the files used or to the materials produced.
 ### 1.1 Team:
 The participants in this course have been:
