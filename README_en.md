@@ -10,7 +10,7 @@
 2. [2024 figures:](#22024-figures)
 3. [Lines of work:](#3lines-of-work)
    - 3.1 [Projects:](#31-projects)
-      - [3.1.0 Atk/Def CTF:](#310-atk/def-ctf)
+      - [3.1.0 Atk/Def CTF:](#310-atkdef-ctf)
       - 3.1.1 Atk/Def CTF infrastructure:
       - 3.1.2 Atk/Def CTF exercises (Services):
       - 3.1.3 Atk/Def CTF visualization systems:
