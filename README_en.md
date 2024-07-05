@@ -22,7 +22,7 @@
       - 3.2.3 [Hack the box](#323-hack-the-box)
       - 3.2.4 [Pentesting](#324-pentesting)
    - 3.3 [Courses:](#33-courses)
-      - 3.3.1 [Awareness campaigns: Phishing-Vishing](#331-awareness-campaigns-phishingvishing)
+      - 3.3.1 [Awareness campaigns: Phishing-Vishing](#331-awareness-campaigns-phishing-vishing)
       - 3.3.2 [Practical workshop to attack unsafe industrial communications](#332-practical-workshop-to-attack-unsafe-industrial-communications)
       - 3.3.3 [Practical workshop for the segmentation of industrial networks](#333-practical-workshop-for-the-segmentation-of-industrial-networks)
       - 3.3.4 [Secure Web Development](#334-secure-web-development)
@@ -129,7 +129,7 @@ This campaign, was requested <a href="https://www.bedisruptive.com/"> **BeDisrup
  - ##### Context
 **The Hack The Box** platform, from the point of view of its use in the Cybersecurity specialty of Vocational Training, has been a tool that has been tested throughout the school year at the **FP Txurdinaga**. The different laboratories offered by **HTB** have been tested and the advantages of working with students have been tested. Plus, this school year, it has been used in <a href="https://cyberlehia.fpeuskadi.eus">**CyberLehia**</a>, and the aim has been to organize a day to share, reflect, and work on the experience and conclusions obtained from it. This day, in addition to sharing the conclusions, has worked together on an **HTB challenge**.
 
-#### 3.2.4 Pentesting Pilot Iurreta LHI:
+#### 3.2.4 Pentesting:
 <p align="center"><img width="50%" height="50%" src="img/pentesting-iurreta.jpg"></p>
 
  - ##### Context
