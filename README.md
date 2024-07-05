@@ -170,6 +170,22 @@ Prestakuntza honetan, web-inguruneetan modu seguruan garatzeko kontuan hartu beh
 <p align="center"> <a href="docs/Desarrollo seguro parte I.pdf" class="image fit"><img src="img/Web Garapen Segurua 1.png" alt="" width="50%" height="50%"></a></p>
 <p align="center"> <a href="docs/Desarrollo seguro parte II.pdf" class="image fit"><img src="img/Web Garapen Segurua 2.png" alt="" width="50%" height="50%"></a></p>
 
+Hona hemen formakuntzako bideoak:
+
+Web Garapen Seguru Tailerra 1.1
+<p align="center"><a href="https://youtube.com/live/AcNfTbXOxiQ"> <img align="center" src="img/Web Garapen Segurua 1.png" width=50% height=50%> </a></p>
+
+Web Garapen Seguru Tailerra 1.2 
+<p align="center"><a href="https://youtube.com/live/8BspF0GKxMI"> <img align="center" src="img/Web Garapen Segurua 1.png" width=50% height=50%> </a></p>
+
+Web Garapen Seguru Tailerra 2.1
+<p align="center"><a href="https://youtube.com/live/q4EfC_M8n-k"> <img align="center" src="img/Web Garapen Segurua 2.png" width=50% height=50%> </a></p>
+
+Web Garapen Seguru Tailerra 2.2
+<p align="center"><a href="https://youtube.com/live/uVHfWN-xtNM"> <img align="center" src="img/Web Garapen Segurua 2.png" width=50% height=50%> </a></p>
+
+
+
 #### 3.3.5 "Zibersegurtasuneko araudia irakaslearen ikuspuntutik". Webinar (Ruth Sala)
 Irakaslearen ikuspuntutik Zibersegurtasun Araudiari buruzko webinarra burutu da. Webinar hau <a href="https://www.linkedin.com/in/ruthsala/?originalSubdomain=es">Ruth Sala</a> abokatuak eta gaian adituak eman du, eta bertan zibersegurtasunaren atalean burutzen diren hainbat praktiken legalitatearen inguruan egon daitezkeen galderak erantzun zituen bertan.
 <p align="center"><a href="https://www.youtube.com/live/JUFNl8AUOO0"> <img align="center" src="img/screenshot_rsala.jpg" width=50% height=50%> </a></p>
